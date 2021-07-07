@@ -13,8 +13,22 @@ titleSelector = "h2"
 linkSelector = "h2 a"
 
 [jiemian]
-title = "jiemian"
+title = "界面文化"
 url = "https://www.jiemian.com/lists/130.html"
-entrySelector = "news-main"
+entrySelector = ".news-header"
 titleSelector = "h3"
 linkSelector = "h3 a"
+
+[thepaper]
+title = "澎湃思想"
+url = "https://www.thepaper.cn/channel_25952"
+entrySelector = ".news_li"
+titleSelector = "h2"
+linkSelector = "h2 a"
+
+[csdnnews]
+title = "CSDN"
+url = "https://csdnnews.blog.csdn.net"
+entrySelector = ".article-item-box"
+titleSelector = "h4"
+linkSelector = "h4 a"

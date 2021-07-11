@@ -12,13 +12,6 @@ entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
 
-[jiemian]
-title = "界面文化"
-url = "https://www.jiemian.com/lists/130.html"
-entrySelector = ".news-header"
-titleSelector = "h3"
-linkSelector = "h3 a"
-
 [thepaper]
 title = "澎湃思想"
 url = "https://www.thepaper.cn/channel_25952"
@@ -32,3 +25,38 @@ url = "https://csdnnews.blog.csdn.net"
 entrySelector = ".article-item-box"
 titleSelector = "h4"
 linkSelector = "h4 a"
+
+[shuju]
+title = "中华书局"
+url = "https://www.thepaper.cn/user_3638049"
+entrySelector = ".news_li"
+titleSelector = ".title"
+linkSelector = "a"
+
+[producthunt]
+title = "producthunt"
+url = "https://www.producthunt.com/"
+entrySelector = ".styles_postContent__3Sqgf"
+titleSelector = "h3"
+linkSelector = "h3 a"
+
+[jiemian]
+title = "界面文化"
+url = "https://m.jiemian.com/lists/130.html"
+entrySelector = ".news-header"
+titleSelector = "h3"
+linkSelector = "h3 a"
+
+[bjnewsculture]
+title = "新京报文化"
+url = "http://www.bjnews.com.cn/culture"
+entrySelector = ".pin_demo"
+titleSelector = ".pin_tit"
+linkSelector = "a"
+
+[ifengculture]
+title = "凤凰文化"
+url = "https://culture.ifeng.com/"
+entrySelector = ".news-stream-newsStream-news-item-infor"
+titleSelector = "h2"
+linkSelector = "a"

@@ -1,44 +1,9 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
-
 [thepaper]
 title = "澎湃思想"
 url = "https://www.thepaper.cn/channel_25952"
 entrySelector = ".news_li"
 titleSelector = "h2"
 linkSelector = "h2 a"
-
-[csdnnews]
-title = "CSDN"
-url = "https://csdnnews.blog.csdn.net"
-entrySelector = ".article-item-box"
-titleSelector = "h4"
-linkSelector = "h4 a"
-
-[shuju]
-title = "中华书局"
-url = "https://www.thepaper.cn/user_3638049"
-entrySelector = ".news_li"
-titleSelector = ".title"
-linkSelector = "a"
-
-[producthunt]
-title = "producthunt"
-url = "https://www.producthunt.com/"
-entrySelector = ".styles_postContent__3Sqgf"
-titleSelector = "h3"
-linkSelector = "h3 a"
 
 [jiemian]
 title = "界面文化"

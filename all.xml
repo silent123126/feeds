@@ -2,8 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://silent123126.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-06T17:31:57.200Z</updated>
+    <updated>2023-06-07T05:31:46.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[《全知读者视角》如何成为韩国特色爽文？ (界面文化)]]></title>
+        <id>https://m.jiemian.com/article/9517795.html</id>
+        <link href="https://m.jiemian.com/article/9517795.html"/>
+        <updated>2023-06-07T05:31:33.230Z</updated>
+        <content type="html"><![CDATA[<h3>
+                <a href="https://m.jiemian.com/article/9517795.html">
+                《全知读者视角》如何成为韩国特色爽文？</a>
+            </h3>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人类学家大卫·格雷伯：为什么我们要填的表格越来越多？ | 说书 (界面文化)]]></title>
         <id>https://m.jiemian.com/article/9482204.html</id>
@@ -195,16 +205,6 @@
             </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[透过咖啡看上海：全民冰美式，遍地咖啡馆 (界面文化)]]></title>
-        <id>https://m.jiemian.com/article/9456514.html</id>
-        <link href="https://m.jiemian.com/article/9456514.html"/>
-        <updated>2023-06-03T11:52:21.752Z</updated>
-        <content type="html"><![CDATA[<h3>
-                <a href="https://m.jiemian.com/article/9456514.html">
-                透过咖啡看上海：全民冰美式，遍地咖啡馆</a>
-            </h3>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[当人人都在提倡共情，共情的边界在哪里？ (新京报文化)]]></title>
         <id>https://www.bjnews.com.cn/detail/1686020399169687.html</id>
         <link href="https://www.bjnews.com.cn/detail/1686020399169687.html"/>
@@ -230,7 +230,9 @@
                                                             <span class="source">
                                                                                                                                 新视界                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">146</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -287,9 +289,9 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">136</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">3小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -342,7 +344,9 @@
                                                             <span class="source">
                                                                                                                                 书评周刊                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">128</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -397,7 +401,9 @@
                                                             <span class="source">
                                                                                                                                 书托邦                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">117</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -619,7 +625,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.2万</span>
+                                                                                                                            <span class="see">1.3万</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -841,7 +847,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">7764</span>
+                                                                                                                            <span class="see">7791</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -1232,7 +1238,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">6878</span>
+                                                                                                                            <span class="see">6897</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -1319,25 +1325,32 @@
                                                         <div class="pin_line"></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[伊北《六姊妹》：故乡淮南的三代女性故事 (凤凰文化)]]></title>
+        <id>https://culture.ifeng.com/c/8QPyUFwlUOF</id>
+        <link href="https://culture.ifeng.com/c/8QPyUFwlUOF"/>
+        <updated>2023-06-07T05:31:46.142Z</updated>
+        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8QPyUFwlUOF" title="伊北《六姊妹》：故乡淮南的三代女性故事" target="_blank">伊北《六姊妹》：故乡淮南的三代女性故事</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">今天 10:02</time><a class="news-stream-newsStream-ly ly" id="count7072030695282974751" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8QPyUFwlUOF&amp;docName=伊北《六姊妹》：故乡淮南的三代女性故事&amp;skey=ec9902&amp;pcUrl=https://culture.ifeng.com/c/8QPyUFwlUOF" target="_blank">0</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[访谈｜金仁顺：作家就是忍不住要说话的那些人 (凤凰文化)]]></title>
+        <id>https://culture.ifeng.com/c/8QMnBIIVl0P</id>
+        <link href="https://culture.ifeng.com/c/8QMnBIIVl0P"/>
+        <updated>2023-06-07T05:31:46.144Z</updated>
+        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8QMnBIIVl0P" title="访谈｜金仁顺：作家就是忍不住要说话的那些人" target="_blank">访谈｜金仁顺：作家就是忍不住要说话的那些人</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">06-05 12:12</time><a class="news-stream-newsStream-ly ly" id="count7071335860154671357" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8QMnBIIVl0P&amp;docName=访谈｜金仁顺：作家就是忍不住要说话的那些人&amp;skey=1b3c3b&amp;pcUrl=https://culture.ifeng.com/c/8QMnBIIVl0P" target="_blank">0</a></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[不足够坚韧，只会去适应的人，会生锈｜黑塞 (凤凰文化)]]></title>
         <id>https://culture.ifeng.com/c/8QOLSp4A7Ck</id>
         <link href="https://culture.ifeng.com/c/8QOLSp4A7Ck"/>
         <updated>2023-06-06T05:33:29.329Z</updated>
-        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8QOLSp4A7Ck" title="不足够坚韧，只会去适应的人，会生锈｜黑塞" target="_blank">不足够坚韧，只会去适应的人，会生锈｜黑塞</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">今天 10:35</time><a class="news-stream-newsStream-ly ly" id="count7071674930781229122" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8QOLSp4A7Ck&amp;docName=不足够坚韧，只会去适应的人，会生锈｜黑塞&amp;skey=62fa62&amp;pcUrl=https://culture.ifeng.com/c/8QOLSp4A7Ck" target="_blank">0</a></div>]]></content>
+        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8QOLSp4A7Ck" title="不足够坚韧，只会去适应的人，会生锈｜黑塞" target="_blank">不足够坚韧，只会去适应的人，会生锈｜黑塞</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">06-06 10:35</time><a class="news-stream-newsStream-ly ly" id="count7071674930781229122" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8QOLSp4A7Ck&amp;docName=不足够坚韧，只会去适应的人，会生锈｜黑塞&amp;skey=62fa62&amp;pcUrl=https://culture.ifeng.com/c/8QOLSp4A7Ck" target="_blank">0</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一本书、一个手机摄影展，记录上海的活色生香 (凤凰文化)]]></title>
         <id>https://culture.ifeng.com/c/8QOKU281oXO</id>
         <link href="https://culture.ifeng.com/c/8QOKU281oXO"/>
         <updated>2023-06-06T05:33:29.329Z</updated>
-        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8QOKU281oXO" title="一本书、一个手机摄影展，记录上海的活色生香" target="_blank">一本书、一个手机摄影展，记录上海的活色生香</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">今天 10:40</time><a class="news-stream-newsStream-ly ly" id="count7071671477933712278" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8QOKU281oXO&amp;docName=一本书、一个手机摄影展，记录上海的活色生香&amp;skey=9abe45&amp;pcUrl=https://culture.ifeng.com/c/8QOKU281oXO" target="_blank">0</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[屠格涅夫致信福楼拜：那件俄式睡袍您收到了吗 (凤凰文化)]]></title>
-        <id>https://culture.ifeng.com/c/8QMcB10dsvh</id>
-        <link href="https://culture.ifeng.com/c/8QMcB10dsvh"/>
-        <updated>2023-06-05T05:31:45.848Z</updated>
-        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8QMcB10dsvh" title="屠格涅夫致信福楼拜：那件俄式睡袍您收到了吗" target="_blank">屠格涅夫致信福楼拜：那件俄式睡袍您收到了吗</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">06-05 09:45</time><a class="news-stream-newsStream-ly ly" id="count7071297106555707961" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8QMcB10dsvh&amp;docName=屠格涅夫致信福楼拜：那件俄式睡袍您收到了吗&amp;skey=b171ad&amp;pcUrl=https://culture.ifeng.com/c/8QMcB10dsvh" target="_blank">0</a></div>]]></content>
+        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8QOKU281oXO" title="一本书、一个手机摄影展，记录上海的活色生香" target="_blank">一本书、一个手机摄影展，记录上海的活色生香</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">06-06 10:40</time><a class="news-stream-newsStream-ly ly" id="count7071671477933712278" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8QOKU281oXO&amp;docName=一本书、一个手机摄影展，记录上海的活色生香&amp;skey=9abe45&amp;pcUrl=https://culture.ifeng.com/c/8QOKU281oXO" target="_blank">0</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[陈丹燕《萨瓦流淌的方向》：世界公民，作家电影 (凤凰文化)]]></title>
@@ -1345,6 +1358,13 @@
         <link href="https://culture.ifeng.com/c/8QMbkYdKNNy"/>
         <updated>2023-06-05T05:31:45.849Z</updated>
         <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8QMbkYdKNNy" title="陈丹燕《萨瓦流淌的方向》：世界公民，作家电影" target="_blank">陈丹燕《萨瓦流淌的方向》：世界公民，作家电影</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">06-05 09:47</time><a class="news-stream-newsStream-ly ly" id="count7071295603753358266" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8QMbkYdKNNy&amp;docName=陈丹燕《萨瓦流淌的方向》：世界公民，作家电影&amp;skey=89ecec&amp;pcUrl=https://culture.ifeng.com/c/8QMbkYdKNNy" target="_blank">0</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[屠格涅夫致信福楼拜：那件俄式睡袍您收到了吗 (凤凰文化)]]></title>
+        <id>https://culture.ifeng.com/c/8QMcB10dsvh</id>
+        <link href="https://culture.ifeng.com/c/8QMcB10dsvh"/>
+        <updated>2023-06-05T05:31:45.848Z</updated>
+        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8QMcB10dsvh" title="屠格涅夫致信福楼拜：那件俄式睡袍您收到了吗" target="_blank">屠格涅夫致信福楼拜：那件俄式睡袍您收到了吗</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">06-05 09:45</time><a class="news-stream-newsStream-ly ly" id="count7071297106555707961" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8QMcB10dsvh&amp;docName=屠格涅夫致信福楼拜：那件俄式睡袍您收到了吗&amp;skey=b171ad&amp;pcUrl=https://culture.ifeng.com/c/8QMcB10dsvh" target="_blank">0</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我们不过一介草民，今日不知明日事｜星期天文学·路魆 (凤凰文化)]]></title>
@@ -1373,6 +1393,13 @@
         <link href="https://culture.ifeng.com/c/8QG0hehjkrw"/>
         <updated>2023-06-03T11:52:54.447Z</updated>
         <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8QG0hehjkrw" title="度过书香好时光，六一期间有这些儿童阅读活动" target="_blank">度过书香好时光，六一期间有这些儿童阅读活动</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">06-01 10:13</time><a class="news-stream-newsStream-ly ly" id="count7069855098540663248" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8QG0hehjkrw&amp;docName=度过书香好时光，六一期间有这些儿童阅读活动&amp;skey=845202&amp;pcUrl=https://culture.ifeng.com/c/8QG0hehjkrw" target="_blank">0</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个人，也要活成一个春天 | 5月新书，推荐这15本 (凤凰文化)]]></title>
+        <id>https://culture.ifeng.com/c/8QEHwHrtF32</id>
+        <link href="https://culture.ifeng.com/c/8QEHwHrtF32"/>
+        <updated>2023-06-07T05:31:46.159Z</updated>
+        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8QEHwHrtF32" title="一个人，也要活成一个春天 | 5月新书，推荐这15本" target="_blank">一个人，也要活成一个春天 | 5月新书，推荐这15本</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">05-31 09:23</time><a class="news-stream-newsStream-ly ly" id="count7069479116860301936" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8QEHwHrtF32&amp;docName=一个人，也要活成一个春天 | 5月新书，推荐这15本&amp;skey=2cb44e&amp;pcUrl=https://culture.ifeng.com/c/8QEHwHrtF32" target="_blank">0</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[庆祝什么也不干的一天 (凤凰文化)]]></title>
@@ -1457,26 +1484,5 @@
         <link href="https://culture.ifeng.com/c/8Q5yiIsYer0"/>
         <updated>2023-06-03T11:52:54.469Z</updated>
         <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8Q5yiIsYer0" title="这些小说，“拿了”戛纳金棕榈奖" target="_blank">这些小说，“拿了”戛纳金棕榈奖</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">05-26 09:10</time><a class="news-stream-newsStream-ly ly" id="count7067664691060810118" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8Q5yiIsYer0&amp;docName=这些小说，“拿了”戛纳金棕榈奖&amp;skey=c2f789&amp;pcUrl=https://culture.ifeng.com/c/8Q5yiIsYer0" target="_blank">0</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁说古代中国人不接吻？ (凤凰文化)]]></title>
-        <id>https://culture.ifeng.com/c/8Q4HYx56W4e</id>
-        <link href="https://culture.ifeng.com/c/8Q4HYx56W4e"/>
-        <updated>2023-06-03T11:52:54.471Z</updated>
-        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8Q4HYx56W4e" title="谁说古代中国人不接吻？" target="_blank">谁说古代中国人不接吻？</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">05-25 08:56</time><a class="news-stream-newsStream-ly ly" id="count7067294390355501152" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8Q4HYx56W4e&amp;docName=谁说古代中国人不接吻？&amp;skey=ccd9af&amp;pcUrl=https://culture.ifeng.com/c/8Q4HYx56W4e" target="_blank">0</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国际布克奖首次颁给保加利亚语作品，小说即将出中文版 (凤凰文化)]]></title>
-        <id>https://culture.ifeng.com/c/8Q3FxOgzDB0</id>
-        <link href="https://culture.ifeng.com/c/8Q3FxOgzDB0"/>
-        <updated>2023-06-03T11:52:54.472Z</updated>
-        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8Q3FxOgzDB0" title="国际布克奖首次颁给保加利亚语作品，小说即将出中文版" target="_blank">国际布克奖首次颁给保加利亚语作品，小说即将出中文版</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">05-24 17:35</time><a class="news-stream-newsStream-ly ly" id="count7067070395521704150" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8Q3FxOgzDB0&amp;docName=国际布克奖首次颁给保加利亚语作品，小说即将出中文版&amp;skey=081cd6&amp;pcUrl=https://culture.ifeng.com/c/8Q3FxOgzDB0" target="_blank">0</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么南方人叫阿珍阿强，而北方人叫小王小张？ (凤凰文化)]]></title>
-        <id>https://culture.ifeng.com/c/8Q2kTZT7c89</id>
-        <link href="https://culture.ifeng.com/c/8Q2kTZT7c89"/>
-        <updated>2023-06-03T11:52:54.476Z</updated>
-        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8Q2kTZT7c89" title="为什么南方人叫阿珍阿强，而北方人叫小王小张？" target="_blank">为什么南方人叫阿珍阿强，而北方人叫小王小张？</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">05-24 10:30</time><a class="news-stream-newsStream-ly ly" id="count7066959531334439177" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8Q2kTZT7c89&amp;docName=为什么南方人叫阿珍阿强，而北方人叫小王小张？&amp;skey=3ec3f4&amp;pcUrl=https://culture.ifeng.com/c/8Q2kTZT7c89" target="_blank">0</a></div>]]></content>
     </entry>
 </feed>

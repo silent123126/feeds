@@ -20,3 +20,24 @@ url = "https://culture.ifeng.com/"
 entrySelector = ".news-stream-newsStream-news-item-infor"
 titleSelector = "h2"
 linkSelector = "a"
+
+[thepaper_1]
+title = "澎湃思想 私家历史"
+url = "https://m.thepaper.cn/list_25457"
+entrySelector = ".index_wrapper__9rz3z"
+titleSelector = "div h3"
+linkSelector = "div a"
+
+[thepaper_2]
+title = "澎湃思想 翻书党"
+url = "https://m.thepaper.cn/list_25574"
+entrySelector = ".index_wrapper__9rz3z"
+titleSelector = "div h3"
+linkSelector = "div a"
+
+[thepaper_3]
+title = "澎湃思想 上海书评"
+url = "https://m.thepaper.cn/list_26878"
+entrySelector = ".index_wrapper__9rz3z"
+titleSelector = "div h3"
+linkSelector = "div a"

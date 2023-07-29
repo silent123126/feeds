@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.bjnews.com.cn/culture</id>
     <title>新京报文化</title>
-    <updated>2023-07-29T05:32:31.860Z</updated>
+    <updated>2023-07-29T17:32:24.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.bjnews.com.cn/favicon.ico</icon>
     <entry>
@@ -31,11 +31,9 @@
                                                             <span class="source">
                                                                                                                                 杂志活页                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">2小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -51,6 +49,116 @@
                                                                 </span>
                                                                 <!-- 微信分享 -->
                                                                 <span class="weixin" tagerturl="https://m.bjnews.com.cn/detail/1690599609168195.html">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国作家马丁·瓦尔泽逝世，享年96岁]]></title>
+        <id>https://www.bjnews.com.cn/detail/1690620911169568.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1690620911169568.html"/>
+        <updated>2023-07-29T17:31:48.005Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1690620911169568.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            德国作家马丁·瓦尔泽逝世，享年96岁</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1690620911169568.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/7/mapj2023729165591293918.jpg?x-oss-process=image/resize,m_lfit,w_365/quality,q_80" data-bd-imgshare-binded="1" alt="德国作家马丁·瓦尔泽逝世，享年96岁">
+                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1690620911169568.html" target="_blank">
+                                                                    据德国媒体消息，德国作家马丁·瓦尔泽 (Martin Walser) 当地时间7月28日在家中去世，享年 96 岁。他是德国的国宝级作家，被称为“文学君主”。                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                文化现场                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1690620911169568" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=https://www.bjnews.com.cn/detail/1690620911169568.html&amp;title=德国作家马丁·瓦尔泽逝世，享年96岁&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="https://m.bjnews.com.cn/detail/1690620911169568.html">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除我自己之外，我不想让任何人信服什么|马丁·瓦尔泽逝世]]></title>
+        <id>https://www.bjnews.com.cn/detail/1690624407169571.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1690624407169571.html"/>
+        <updated>2023-07-29T17:31:48.007Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1690624407169571.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            除我自己之外，我不想让任何人信服什么|马丁·瓦尔泽逝世</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1690624407169571.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/7/mapj20237291753251294039.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="除我自己之外，我不想让任何人信服什么|马丁·瓦尔泽逝世">
+                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1690624407169571.html" target="_blank">
+                                                                    据德国媒体消息，德国作家马丁·瓦尔泽(Martin Walser)当地时间7月28日在家中逝世，享年 96 岁。本文刊发新京报书评周刊于2016年对瓦尔泽的...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                壹访谈                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1690624407169571" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=https://www.bjnews.com.cn/detail/1690624407169571.html&amp;title=除我自己之外，我不想让任何人信服什么|马丁·瓦尔泽逝世&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="https://m.bjnews.com.cn/detail/1690624407169571.html">
                                                                     <div class="weixin-code">
                                                                         <p class="wx-t">分享到微信朋友圈</p>
                                                                         <div class="er"></div>
@@ -90,9 +198,9 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="see">5201</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">2小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -145,11 +253,9 @@
                                                             <span class="source">
                                                                                                                                 书托邦                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">2小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -202,11 +308,9 @@
                                                             <span class="source">
                                                                                                                                 文化现场                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">2小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -371,7 +475,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">5636</span>
+                                                                                                                            <span class="see">5766</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -428,7 +532,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">222</span>
+                                                                                                                            <span class="zan">318</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -1008,120 +1112,6 @@
                                                                 </span>
                                                                 <!-- 微信分享 -->
                                                                 <span class="weixin" tagerturl="https://m.bjnews.com.cn/detail/1690264601169326.html">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个人的书籍设计史：宁成春与三联的书籍设计传统]]></title>
-        <id>https://www.bjnews.com.cn/detail/1690290500168988.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1690290500168988.html"/>
-        <updated>2023-07-25T17:31:36.632Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1690290500168988.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            一个人的书籍设计史：宁成春与三联的书籍设计传统</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1690290500168988.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/7/mapj2023725218181285281.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="一个人的书籍设计史：宁成春与三联的书籍设计传统">
-                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1690290500168988.html" target="_blank">
-                                                                    书衣是有生命的，它是一本书的内容与精神气质的直观显现。设计师究竟是怎样“做出”一本书的？设计思路从何而来？如何解读当下图书设计的整体...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                文化现场                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">278</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1690290500168988" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=https://www.bjnews.com.cn/detail/1690290500168988.html&amp;title=一个人的书籍设计史：宁成春与三联的书籍设计传统&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="https://m.bjnews.com.cn/detail/1690290500168988.html">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“自动驾驶”：一种技术的角逐和文化]]></title>
-        <id>https://www.bjnews.com.cn/detail/1690282170168977.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1690282170168977.html"/>
-        <updated>2023-07-25T17:31:36.632Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1690282170168977.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            “自动驾驶”：一种技术的角逐和文化</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1690282170168977.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/7/mapj20237251849281284855.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="“自动驾驶”：一种技术的角逐和文化">
-                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1690282170168977.html" target="_blank">
-                                                                    “自动驾驶”，从过去的科幻和艺术想象逐渐演变为一种在实验室和工厂的技术，甚至如今在道路上也可见自动驾驶汽车。本文为《自动驾驶之争》书...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                书托邦                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">138</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1690282170168977" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=https://www.bjnews.com.cn/detail/1690282170168977.html&amp;title=“自动驾驶”：一种技术的角逐和文化&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="https://m.bjnews.com.cn/detail/1690282170168977.html">
                                                                     <div class="weixin-code">
                                                                         <p class="wx-t">分享到微信朋友圈</p>
                                                                         <div class="er"></div>

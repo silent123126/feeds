@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.bjnews.com.cn/culture</id>
     <title>新京报文化</title>
-    <updated>2023-09-21T05:32:38.868Z</updated>
+    <updated>2023-09-21T17:32:27.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.bjnews.com.cn/favicon.ico</icon>
     <entry>
@@ -33,9 +33,9 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="see">8695</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">1小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -90,9 +90,9 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">934</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">1小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -108,6 +108,63 @@
                                                                 </span>
                                                                 <!-- 微信分享 -->
                                                                 <span class="weixin" tagerturl="https://m.bjnews.com.cn/detail/1695267265168289.html">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《滚石》杂志创始人就性别歧视与种族言论公开道歉]]></title>
+        <id>https://www.bjnews.com.cn/detail/1695276148169573.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1695276148169573.html"/>
+        <updated>2023-09-21T17:31:55.727Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1695276148169573.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            《滚石》杂志创始人就性别歧视与种族言论公开道歉</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1695276148169573.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/9/mapj2023921142261413375.jpg?x-oss-process=image/resize,m_lfit,w_365/quality,q_80" data-bd-imgshare-binded="1" alt="《滚石》杂志创始人就性别歧视与种族言论公开道歉">
+                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1695276148169573.html" target="_blank">
+                                                                    近日，知名流行文化杂志《滚石》的联合创始人詹·温纳在接受采访时贬低女性和黑人艺术家的水平，引发摇滚界内外震荡。有评论认为他的言论暴...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                文化现场                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">841</span>
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1695276148169573" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=https://www.bjnews.com.cn/detail/1695276148169573.html&amp;title=《滚石》杂志创始人就性别歧视与种族言论公开道歉&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="https://m.bjnews.com.cn/detail/1695276148169573.html">
                                                                     <div class="weixin-code">
                                                                         <p class="wx-t">分享到微信朋友圈</p>
                                                                         <div class="er"></div>
@@ -145,11 +202,9 @@
                                                             <span class="source">
                                                                                                                                 书托邦                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">1小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -375,7 +430,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">9757</span>
+                                                                                                                            <span class="see">9983</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -1055,61 +1110,6 @@
                                                                 </span>
                                                                 <!-- 微信分享 -->
                                                                 <span class="weixin" tagerturl="https://m.bjnews.com.cn/detail/1694949657169309.html">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有毒的市场：金钱不该买什么？]]></title>
-        <id>https://www.bjnews.com.cn/detail/1694949642169308.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1694949642169308.html"/>
-        <updated>2023-09-17T17:31:52.608Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1694949642169308.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            有毒的市场：金钱不该买什么？</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1694949642169308.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/9/mapj20239171920401404452.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="有毒的市场：金钱不该买什么？">
-                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1694949642169308.html" target="_blank">
-                                                                    生存机会、医疗、生殖、肾脏、教育、性……为什么不把所有的东西都拿来出售？面对这种直觉反应，经济分析几乎没有提供任何理解。最近出版的《...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                书托邦                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1694949642169308" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=https://www.bjnews.com.cn/detail/1694949642169308.html&amp;title=有毒的市场：金钱不该买什么？&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="https://m.bjnews.com.cn/detail/1694949642169308.html">
                                                                     <div class="weixin-code">
                                                                         <p class="wx-t">分享到微信朋友圈</p>
                                                                         <div class="er"></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.bjnews.com.cn/culture</id>
     <title>新京报文化</title>
-    <updated>2023-10-10T05:32:23.075Z</updated>
+    <updated>2023-10-10T17:32:34.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.bjnews.com.cn/favicon.ico</icon>
     <entry>
@@ -33,9 +33,9 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">119</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">3小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -63,41 +63,155 @@
                                                         <div class="pin_line"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文学底蕴深厚的波兰，在给孩子读什么书？]]></title>
-        <id>https://www.bjnews.com.cn/detail/1696831084169487.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1696831084169487.html"/>
-        <updated>2023-10-09T17:31:40.399Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1696831084169487.html" target="_blank">
+        <title type="html"><![CDATA[《自然》杂志调查：博士后仍是学术界的苦力劳动者]]></title>
+        <id>https://www.bjnews.com.cn/detail/1696943962168290.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1696943962168290.html"/>
+        <updated>2023-10-10T17:31:58.550Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1696943962168290.html" target="_blank">
                                                             <div class="pin_tit">
                                                                 
-                                                                                                                            文学底蕴深厚的波兰，在给孩子读什么书？</div>
+                                                                                                                            《自然》杂志调查：博士后仍是学术界的苦力劳动者</div>
                                                         </a>
                                                         <!-- 无图稿件判断 start-->
                                                                                                                                                                         <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1696831084169487.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/10/mapj2023109135831465163.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="文学底蕴深厚的波兰，在给孩子读什么书？">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1696943962168290.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/10/mapj202310102119211468915.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="《自然》杂志调查：博士后仍是学术界的苦力劳动者">
                                                             </a>
                                                         </div>
                                                                                                                 <!--无图稿件判断 end-->
                                                                                                                     <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1696831084169487.html" target="_blank">
-                                                                    自儿童文学脱离成人文学而自立门户，近百年来，儿童观和教育观的思潮变迁在各国都催生了非常多的优秀作品，从而形成了庞大而复杂的童书市场。                                                                    <i>[全文]</i>
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1696943962168290.html" target="_blank">
+                                                                    《自然》（Nature）杂志近期发表的全球博士后调查发现，新冠造成的负面影响已经下降，博士后对就业前景更有信心。但是，博士后仍然是学术界...                                                                    <i>[全文]</i>
                                                                 </a>
                                                             </div>
                                                                                                                                                                         <div class="bom">
                                                             <span class="source">
-                                                                                                                                杂志活页                                                            </span>
+                                                                                                                                文化现场                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">353</span>
+                                                                                                                            <span class="zan">154</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
                                                                                                                                 <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1696831084169487" title="点赞">
+                                                                    <input class="pubu_dianzan" value="1696943962168290" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新晋诺贝尔经济学奖得主戈尔丁：平衡事业与家庭，仍是女性难题]]></title>
+        <id>https://www.bjnews.com.cn/detail/1696910412168245.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1696910412168245.html"/>
+        <updated>2023-10-10T17:31:58.550Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1696910412168245.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            新晋诺贝尔经济学奖得主戈尔丁：平衡事业与家庭，仍是女性难题</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1696910412168245.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/10/mapj20231010120101467372.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="新晋诺贝尔经济学奖得主戈尔丁：平衡事业与家庭，仍是女性难题">
+                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1696910412168245.html" target="_blank">
+                                                                    北京时间10月9日下午，诺贝尔经济学奖获奖者名单揭晓，奖项授予哈佛大学经济学教授克劳迪娅·戈尔丁(Claudia Goldin)，以表彰其“增进了我们...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书托邦                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="comment">22</span>
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1696910412168245" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《韦伯传：思与意志》| 每日一书]]></title>
+        <id>https://www.bjnews.com.cn/detail/1696915980169550.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1696915980169550.html"/>
+        <updated>2023-10-10T17:31:58.555Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1696915980169550.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            《韦伯传：思与意志》| 每日一书</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1696915980169550.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/10/mapj202310101332591467624.jpeg?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="《韦伯传：思与意志》| 每日一书">
+                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1696915980169550.html" target="_blank">
+                                                                    在过去的9月，又有不少精彩的新书出现在我们的阅读视野中。我们从中选出20本不同类别的优秀书籍推荐给大家，本篇为其中的《韦伯传：思与意...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书托邦                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">183</span>
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1696915980169550" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->
@@ -177,41 +291,41 @@
                                                         <div class="pin_line"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[儿童网红：年少成名需要付出多少“代价”？｜读刊]]></title>
-        <id>https://www.bjnews.com.cn/detail/1696827389169483.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1696827389169483.html"/>
-        <updated>2023-10-09T17:31:40.396Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1696827389169483.html" target="_blank">
+        <title type="html"><![CDATA[文学底蕴深厚的波兰，在给孩子读什么书？]]></title>
+        <id>https://www.bjnews.com.cn/detail/1696831084169487.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1696831084169487.html"/>
+        <updated>2023-10-09T17:31:40.399Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1696831084169487.html" target="_blank">
                                                             <div class="pin_tit">
                                                                 
-                                                                                                                            儿童网红：年少成名需要付出多少“代价”？｜读刊</div>
+                                                                                                                            文学底蕴深厚的波兰，在给孩子读什么书？</div>
                                                         </a>
                                                         <!-- 无图稿件判断 start-->
                                                                                                                                                                         <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1696827389169483.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/10/mapj20231091256281465064.jpg?x-oss-process=image/resize,m_lfit,w_365/quality,q_80" data-bd-imgshare-binded="1" alt="儿童网红：年少成名需要付出多少“代价”？｜读刊">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1696831084169487.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/10/mapj2023109135831465163.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="文学底蕴深厚的波兰，在给孩子读什么书？">
                                                             </a>
                                                         </div>
                                                                                                                 <!--无图稿件判断 end-->
                                                                                                                     <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1696827389169483.html" target="_blank">
-                                                                    “8岁少年直播养家”“妈妈给12岁孩子画复古女装”“萌娃网红账号月入15万”……当许多家长还在担心自己的孩子会在互联网冲浪中迷失自我时，已经有...                                                                    <i>[全文]</i>
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1696831084169487.html" target="_blank">
+                                                                    自儿童文学脱离成人文学而自立门户，近百年来，儿童观和教育观的思潮变迁在各国都催生了非常多的优秀作品，从而形成了庞大而复杂的童书市场。                                                                    <i>[全文]</i>
                                                                 </a>
                                                             </div>
                                                                                                                                                                         <div class="bom">
                                                             <span class="source">
-                                                                                                                                文化现场                                                            </span>
+                                                                                                                                杂志活页                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">347</span>
+                                                                                                                            <span class="zan">361</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
                                                                                                                                 <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1696827389169483" title="点赞">
+                                                                    <input class="pubu_dianzan" value="1696831084169487" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->
@@ -261,7 +375,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">7325</span>
+                                                                                                                            <span class="see">9411</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -269,6 +383,63 @@
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1696839629169500" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[儿童网红：年少成名需要付出多少“代价”？｜读刊]]></title>
+        <id>https://www.bjnews.com.cn/detail/1696827389169483.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1696827389169483.html"/>
+        <updated>2023-10-09T17:31:40.396Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1696827389169483.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            儿童网红：年少成名需要付出多少“代价”？｜读刊</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1696827389169483.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/10/mapj20231091256281465064.jpg?x-oss-process=image/resize,m_lfit,w_365/quality,q_80" data-bd-imgshare-binded="1" alt="儿童网红：年少成名需要付出多少“代价”？｜读刊">
+                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1696827389169483.html" target="_blank">
+                                                                    “8岁少年直播养家”“妈妈给12岁孩子画复古女装”“萌娃网红账号月入15万”……当许多家长还在担心自己的孩子会在互联网冲浪中迷失自我时，已经有...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                文化现场                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">357</span>
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1696827389169483" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->
@@ -538,7 +709,9 @@
                                                             <span class="source">
                                                                                                                                 书托邦                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">169</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -595,7 +768,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">9704</span>
+                                                                                                                            <span class="see">9737</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -652,7 +825,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">1027</span>
+                                                                                                                            <span class="zan">1036</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -945,177 +1118,6 @@
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1696566639168084" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[约恩·福瑟获诺贝尔文学奖，中文作品版权花落谁家？]]></title>
-        <id>https://www.bjnews.com.cn/detail/1696510860169337.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1696510860169337.html"/>
-        <updated>2023-10-05T17:31:50.243Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1696510860169337.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            约恩·福瑟获诺贝尔文学奖，中文作品版权花落谁家？</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1696510860169337.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/10/mapj2023105210591454382.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="约恩·福瑟获诺贝尔文学奖，中文作品版权花落谁家？">
-                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1696510860169337.html" target="_blank">
-                                                                    2023年诺贝尔文学奖被授予挪威作家约恩·福瑟（Jon Fosse），以表彰其在文学上的成就。那么，截至目前，国内有哪些出版社和出版品牌即将出版...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                文化现场                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.9万</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1696510860169337" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[约恩·福瑟：诺奖预测榜上的常客，读者书架上的“吃灰选手”？]]></title>
-        <id>https://www.bjnews.com.cn/detail/1696522692168078.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1696522692168078.html"/>
-        <updated>2023-10-05T17:31:50.244Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1696522692168078.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            约恩·福瑟：诺奖预测榜上的常客，读者书架上的“吃灰选手”？</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1696522692168078.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/10/mapj2023106018101455074.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="约恩·福瑟：诺奖预测榜上的常客，读者书架上的“吃灰选手”？">
-                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1696522692168078.html" target="_blank">
-                                                                    与圈内人士的准确预测不同，普通读者似乎对这位享有盛誉的剧作家不甚了解，超过九成的读者在诺奖组委会发起的投票中表示：“从来没有读过福...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                文化现场                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">1379</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1696522692168078" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[约恩·福瑟得诺奖并不意外｜专访译者李澍波]]></title>
-        <id>https://www.bjnews.com.cn/detail/1696523551169341.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1696523551169341.html"/>
-        <updated>2023-10-05T17:31:50.244Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1696523551169341.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            约恩·福瑟得诺奖并不意外｜专访译者李澍波</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1696523551169341.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/10/mapj2023106032311455115.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="约恩·福瑟得诺奖并不意外｜专访译者李澍波">
-                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1696523551169341.html" target="_blank">
-                                                                    约恩·福瑟获得2023年度诺贝尔文学奖。约恩·福瑟是谁？他用什么语言写作？他的作品有哪些特点？关于这些问题，我们采访了约恩·福瑟小说《三...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                文化现场                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">173</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1696523551169341" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->

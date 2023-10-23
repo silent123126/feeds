@@ -2,8 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://silent123126.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-22T17:32:37.729Z</updated>
+    <updated>2023-10-23T05:32:29.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[我们并非夜以继日地披着人性过活，而是在瞬息间邂逅自身人性 | 一周新书推荐 (界面文化)]]></title>
+        <id>https://m.jiemian.com/article/10258888.html</id>
+        <link href="https://m.jiemian.com/article/10258888.html"/>
+        <updated>2023-10-23T05:31:49.772Z</updated>
+        <content type="html"><![CDATA[<h3>
+                <a href="https://m.jiemian.com/article/10258888.html">
+                我们并非夜以继日地披着人性过活，而是在瞬息间邂逅自身人性 | 一周新书推荐</a>
+            </h3>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从足球、电竞到国际象棋，它们为何不相信女性？| 编辑部聊天室 (界面文化)]]></title>
         <id>https://m.jiemian.com/article/10265236.html</id>
@@ -195,16 +205,6 @@
             </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[巴黎臭虫恐慌：臭虫如何与羞耻相连 (界面文化)]]></title>
-        <id>https://m.jiemian.com/article/10191482.html</id>
-        <link href="https://m.jiemian.com/article/10191482.html"/>
-        <updated>2023-10-10T05:31:40.882Z</updated>
-        <content type="html"><![CDATA[<h3>
-                <a href="https://m.jiemian.com/article/10191482.html">
-                巴黎臭虫恐慌：臭虫如何与羞耻相连</a>
-            </h3>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[敦煌壁画上，被凶手抹掉的公主眼泪 (新京报文化)]]></title>
         <id>https://www.bjnews.com.cn/detail/1697960668168955.html</id>
         <link href="https://www.bjnews.com.cn/detail/1697960668168955.html"/>
@@ -230,7 +230,9 @@
                                                             <span class="source">
                                                                                                                                 书评周刊                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">128</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -285,7 +287,9 @@
                                                             <span class="source">
                                                                                                                                 书托邦                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">156</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -342,7 +346,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">411</span>
+                                                                                                                            <span class="zan">435</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -399,7 +403,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">407</span>
+                                                                                                                            <span class="zan">420</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -407,6 +411,63 @@
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1697972028169270" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[视频荐书｜《做自己的哲学家》 (新京报文化)]]></title>
+        <id>https://www.bjnews.com.cn/detail/1698024074129691.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1698024074129691.html"/>
+        <updated>2023-10-23T05:31:56.603Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1698024074129691.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            视频荐书｜《做自己的哲学家》</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1698024074129691.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/cover/2023/10/19/5379140438001262956.jpeg?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="视频荐书｜《做自己的哲学家》">
+                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1698024074129691.html" target="_blank">
+                                                                    欢迎来到“视频荐书”栏目。在这个栏目中，我们将通过视频的形式，与你分享新书中的精彩片段。                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书托邦                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                                                                                            <span class="time">3小时前</span>
+                                                                
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1698024074129691" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->
@@ -456,7 +517,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">1022</span>
+                                                                                                                            <span class="zan">1033</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -741,7 +802,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">8543</span>
+                                                                                                                            <span class="see">8581</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -798,7 +859,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.2万</span>
+                                                                                                                            <span class="see">1.3万</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -855,7 +916,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">2014</span>
+                                                                                                                            <span class="zan">2208</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -1284,61 +1345,18 @@
                                                         <div class="pin_line"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“更年期综合征”，一种现代诊断｜世界更年期关怀日 (新京报文化)]]></title>
-        <id>https://www.bjnews.com.cn/detail/1697602404169012.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1697602404169012.html"/>
-        <updated>2023-10-18T05:32:02.680Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1697602404169012.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            “更年期综合征”，一种现代诊断｜世界更年期关怀日</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1697602404169012.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2023/10/mapj202310181213231484331.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="“更年期综合征”，一种现代诊断｜世界更年期关怀日">
-                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1697602404169012.html" target="_blank">
-                                                                    今天（10月18日）是“世界更年期关怀日”。下文经出版方授权节选自《冰轮冉升：关于更年期的科学、历史与意义》一书第3、9、12章。摘编有删减...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                书托邦                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">535</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1697602404169012" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
+        <title type="html"><![CDATA[我们目前最恐惧的一种疾病，失智症 (凤凰文化)]]></title>
+        <id>https://culture.ifeng.com/c/8U6w9EpbxsT</id>
+        <link href="https://culture.ifeng.com/c/8U6w9EpbxsT"/>
+        <updated>2023-10-23T05:32:03.403Z</updated>
+        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8U6w9EpbxsT" title="我们目前最恐惧的一种疾病，失智症" target="_blank">我们目前最恐惧的一种疾病，失智症</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">今天 09:09</time><a class="news-stream-newsStream-ly ly" id="count7122022342405919141" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8U6w9EpbxsT&amp;docName=我们目前最恐惧的一种疾病，失智症&amp;skey=5fdff3&amp;pcUrl=https://culture.ifeng.com/c/8U6w9EpbxsT" target="_blank">0</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[叙诡笔记｜《谐铎》里的两则“罗刹海市” (凤凰文化)]]></title>
+        <id>https://culture.ifeng.com/c/8U48i3E10MB</id>
+        <link href="https://culture.ifeng.com/c/8U48i3E10MB"/>
+        <updated>2023-10-23T05:32:03.405Z</updated>
+        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8U48i3E10MB" title="叙诡笔记｜《谐铎》里的两则“罗刹海市”" target="_blank">叙诡笔记｜《谐铎》里的两则“罗刹海市”</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">今天 09:11</time><a class="news-stream-newsStream-ly ly" id="count7121411558839690199" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8U48i3E10MB&amp;docName=叙诡笔记｜《谐铎》里的两则“罗刹海市”&amp;skey=8d42c8&amp;pcUrl=https://culture.ifeng.com/c/8U48i3E10MB" target="_blank">0</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[走，照护我们的心灵｜第九届单向街书店文学节 (凤凰文化)]]></title>
@@ -1353,13 +1371,6 @@
         <link href="https://culture.ifeng.com/c/8U1vZ6Go9s5"/>
         <updated>2023-10-20T05:32:02.088Z</updated>
         <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8U1vZ6Go9s5" title="他被周总理邀请，拍下最真实的中国：20万张，太珍贵" target="_blank">他被周总理邀请，拍下最真实的中国：20万张，太珍贵</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">10-20 08:55</time><a class="news-stream-newsStream-ly ly" id="count7120928589226185261" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8U1vZ6Go9s5&amp;docName=他被周总理邀请，拍下最真实的中国：20万张，太珍贵&amp;skey=51ceb8&amp;pcUrl=https://culture.ifeng.com/c/8U1vZ6Go9s5" target="_blank">0</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[路漫漫其修远兮：寻找我们与父辈的故事 (凤凰文化)]]></title>
-        <id>https://culture.ifeng.com/c/8U0JSWqCK3Q</id>
-        <link href="https://culture.ifeng.com/c/8U0JSWqCK3Q"/>
-        <updated>2023-10-19T05:32:25.629Z</updated>
-        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8U0JSWqCK3Q" title="路漫漫其修远兮：寻找我们与父辈的故事" target="_blank">路漫漫其修远兮：寻找我们与父辈的故事</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">10-19 09:15</time><a class="news-stream-newsStream-ly ly" id="count7120576054506299780" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8U0JSWqCK3Q&amp;docName=路漫漫其修远兮：寻找我们与父辈的故事&amp;skey=a09013&amp;pcUrl=https://culture.ifeng.com/c/8U0JSWqCK3Q" target="_blank">0</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[香港国际诗歌之夜IPNHK 2023｜宋昭 AIYS：《我心花怒放》三重奏 (凤凰文化)]]></title>
@@ -1381,6 +1392,13 @@
         <link href="https://culture.ifeng.com/c/8U0JXw1uX1E"/>
         <updated>2023-10-19T05:32:25.630Z</updated>
         <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8U0JXw1uX1E" title="巴黎圣母院塔尖重现：历时4年，耗资70亿" target="_blank">巴黎圣母院塔尖重现：历时4年，耗资70亿</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">10-19 09:17</time><a class="news-stream-newsStream-ly ly" id="count7120576361583874464" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8U0JXw1uX1E&amp;docName=巴黎圣母院塔尖重现：历时4年，耗资70亿&amp;skey=d72126&amp;pcUrl=https://culture.ifeng.com/c/8U0JXw1uX1E" target="_blank">0</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路漫漫其修远兮：寻找我们与父辈的故事 (凤凰文化)]]></title>
+        <id>https://culture.ifeng.com/c/8U0JSWqCK3Q</id>
+        <link href="https://culture.ifeng.com/c/8U0JSWqCK3Q"/>
+        <updated>2023-10-19T05:32:25.629Z</updated>
+        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8U0JSWqCK3Q" title="路漫漫其修远兮：寻找我们与父辈的故事" target="_blank">路漫漫其修远兮：寻找我们与父辈的故事</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">10-19 09:15</time><a class="news-stream-newsStream-ly ly" id="count7120576054506299780" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8U0JSWqCK3Q&amp;docName=路漫漫其修远兮：寻找我们与父辈的故事&amp;skey=a09013&amp;pcUrl=https://culture.ifeng.com/c/8U0JSWqCK3Q" target="_blank">0</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[大数据真的能使我们洞察世界吗？｜读书笔记 (凤凰文化)]]></title>
@@ -1409,6 +1427,13 @@
         <link href="https://culture.ifeng.com/c/8TvIFxs4bbA"/>
         <updated>2023-10-16T05:32:20.682Z</updated>
         <content type="html"><![CDATA[<h2 class="news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8TvIFxs4bbA" title="从什么时候开始，法国人不再笃信权力奥秘之不可破解？" target="_blank">从什么时候开始，法国人不再笃信权力奥秘之不可破解？</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">10-15 08:51</time><a class="news-stream-newsStream-ly ly" id="count7119480118724006452" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8TvIFxs4bbA&amp;docName=从什么时候开始，法国人不再笃信权力奥秘之不可破解？&amp;skey=b36b79&amp;pcUrl=https://culture.ifeng.com/c/8TvIFxs4bbA" target="_blank">0</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡尔维诺，请回答 | 纪念伊塔洛·卡尔维诺诞辰100周年 (凤凰文化)]]></title>
+        <id>https://culture.ifeng.com/c/8TvIFxs4bTy</id>
+        <link href="https://culture.ifeng.com/c/8TvIFxs4bTy"/>
+        <updated>2023-10-23T05:32:03.439Z</updated>
+        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8TvIFxs4bTy" title="卡尔维诺，请回答 | 纪念伊塔洛·卡尔维诺诞辰100周年" target="_blank">卡尔维诺，请回答 | 纪念伊塔洛·卡尔维诺诞辰100周年</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">10-15 08:42</time><a class="news-stream-newsStream-ly ly" id="count7119480118724006006" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8TvIFxs4bTy&amp;docName=卡尔维诺，请回答 | 纪念伊塔洛·卡尔维诺诞辰100周年&amp;skey=cc1bc6&amp;pcUrl=https://culture.ifeng.com/c/8TvIFxs4bTy" target="_blank">0</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[香港国际诗歌之夜IPNHK 2023｜北岛：时间的玫瑰 (凤凰文化)]]></title>
@@ -1481,39 +1506,32 @@
         <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//news.ifeng.com/c/8TlrBPkWE1T" title="欧洲文明如何塑造现代世界" target="_blank">欧洲文明如何塑造现代世界</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">10-10 16:12</time><a class="news-stream-newsStream-ly ly" id="count7117419715718288019" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8TlrBPkWE1T&amp;docName=欧洲文明如何塑造现代世界&amp;skey=a6f728&amp;pcUrl=https://news.ifeng.com/c/8TlrBPkWE1T" target="_blank">0</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[简洁：我要写一部小说，并且非这样写不可 (凤凰文化)]]></title>
-        <id>https://culture.ifeng.com/c/8Tk5cQEPbfz</id>
-        <link href="https://culture.ifeng.com/c/8Tk5cQEPbfz"/>
-        <updated>2023-10-10T05:31:56.264Z</updated>
-        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8Tk5cQEPbfz" title="简洁：我要写一部小说，并且非这样写不可" target="_blank">简洁：我要写一部小说，并且非这样写不可</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">10-10 09:52</time><a class="news-stream-newsStream-ly ly" id="count7117033872159678615" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8Tk5cQEPbfz&amp;docName=简洁：我要写一部小说，并且非这样写不可&amp;skey=b84c23&amp;pcUrl=https://culture.ifeng.com/c/8Tk5cQEPbfz" target="_blank">0</a></div>]]></content>
+        <title type="html"><![CDATA[祸福无常：明清时期“五星政治学”的没落 (澎湃思想 私家历史)]]></title>
+        <id>https://m.thepaper.cn/newsDetail_forward_24947336</id>
+        <link href="https://m.thepaper.cn/newsDetail_forward_24947336"/>
+        <updated>2023-10-23T05:32:15.468Z</updated>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24947336"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/445/2.jpg?x-oss-process=image/resize,w_332" alt="祸福无常：明清时期“五星政治学”的没落"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24947336"><h3 class="index_title__aGAqD">祸福无常：明清时期“五星政治学”的没落</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>42分钟前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[诺贝尔经济学奖得主戈尔丁：女性平等百年旅程，被放大的终点 (凤凰文化)]]></title>
-        <id>https://culture.ifeng.com/c/8TlPgv4FmHU</id>
-        <link href="https://culture.ifeng.com/c/8TlPgv4FmHU"/>
-        <updated>2023-10-17T05:32:25.922Z</updated>
-        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8TlPgv4FmHU" title="诺贝尔经济学奖得主戈尔丁：女性平等百年旅程，被放大的终点" target="_blank">诺贝尔经济学奖得主戈尔丁：女性平等百年旅程，被放大的终点</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">10-10 09:49</time><a class="news-stream-newsStream-ly ly" id="count7117322900008341924" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8TlPgv4FmHU&amp;docName=诺贝尔经济学奖得主戈尔丁：女性平等百年旅程，被放大的终点&amp;skey=d49499&amp;pcUrl=https://culture.ifeng.com/c/8TlPgv4FmHU" target="_blank">0</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专访｜作家叶辛：观察和想象年轻人的生活 (凤凰文化)]]></title>
-        <id>https://culture.ifeng.com/c/8TlQ73Nj0pB</id>
-        <link href="https://culture.ifeng.com/c/8TlQ73Nj0pB"/>
-        <updated>2023-10-10T05:31:56.265Z</updated>
-        <content type="html"><![CDATA[<h2 class="news-stream-newsStream-mr13 news-stream-newsStream-news-item-title news-stream-newsStream-news-item-title-height"><a href="//culture.ifeng.com/c/8TlQ73Nj0pB" title="专访｜作家叶辛：观察和想象年轻人的生活" target="_blank">专访｜作家叶辛：观察和想象年轻人的生活</a></h2><div class="clearfix"><time class="news-stream-newsStream-text">10-10 09:47</time><a class="news-stream-newsStream-ly ly" id="count7117324384431247565" href="https://gentie.ifeng.com/view.html?docUrl=ucms_8TlQ73Nj0pB&amp;docName=专访｜作家叶辛：观察和想象年轻人的生活&amp;skey=c8eafe&amp;pcUrl=https://culture.ifeng.com/c/8TlQ73Nj0pB" target="_blank">0</a></div>]]></content>
+        <title type="html"><![CDATA[“诗史”汪元量亲历的宋元易代 (澎湃思想 私家历史)]]></title>
+        <id>https://m.thepaper.cn/newsDetail_forward_24450579</id>
+        <link href="https://m.thepaper.cn/newsDetail_forward_24450579"/>
+        <updated>2023-10-23T05:32:15.479Z</updated>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24450579"><img src="https://imagecloud.thepaper.cn/thepaper/image/268/595/250.jpg?x-oss-process=image/resize,w_332" alt="“诗史”汪元量亲历的宋元易代"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24450579"><h3 class="index_title__aGAqD">“诗史”汪元量亲历的宋元易代</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>3小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[南非行纪⑥︱南非钻石和黄金开采业的经济环境史 (澎湃思想 私家历史)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_24952016</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24952016"/>
         <updated>2023-10-22T05:32:34.012Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24952016"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/960/817.jpg?x-oss-process=image/resize,w_332" alt="南非行纪⑥︱南非钻石和黄金开采业的经济环境史"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24952016"><h3 class="index_title__aGAqD">南非行纪⑥︱南非钻石和黄金开采业的经济环境史</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>12小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24952016"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/960/817.jpg?x-oss-process=image/resize,w_332" alt="南非行纪⑥︱南非钻石和黄金开采业的经济环境史"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24952016"><h3 class="index_title__aGAqD">南非行纪⑥︱南非钻石和黄金开采业的经济环境史</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>1天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[王金林与中国日本史研究的六十年 (澎湃思想 私家历史)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_24998138</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24998138"/>
         <updated>2023-10-21T05:32:19.319Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24998138"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/883/963.jpg?x-oss-process=image/resize,w_332" alt="王金林与中国日本史研究的六十年"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24998138"><h3 class="index_title__aGAqD">王金林与中国日本史研究的六十年</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>1天前</span></div><div class="adm-space-item"><span> <!-- -->15<!-- -->评<!-- --></span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24998138"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/883/963.jpg?x-oss-process=image/resize,w_332" alt="王金林与中国日本史研究的六十年"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24998138"><h3 class="index_title__aGAqD">王金林与中国日本史研究的六十年</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>2天前</span></div><div class="adm-space-item"><span> <!-- -->15<!-- -->评<!-- --></span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我读︱《驯服弥赛亚》：奥斯曼帝国早期现代性起源的一种可能 (澎湃思想 私家历史)]]></title>
@@ -1541,35 +1559,21 @@
         <id>https://m.thepaper.cn/newsDetail_forward_24984674</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24984674"/>
         <updated>2023-10-20T05:32:10.724Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24984674"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/728/803.jpeg?x-oss-process=image/resize,w_332" alt="布罗代尔与白乐日：在世界史中研究中国史"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24984674"><h3 class="index_title__aGAqD">布罗代尔与白乐日：在世界史中研究中国史</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>2天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24984674"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/728/803.jpeg?x-oss-process=image/resize,w_332" alt="布罗代尔与白乐日：在世界史中研究中国史"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24984674"><h3 class="index_title__aGAqD">布罗代尔与白乐日：在世界史中研究中国史</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>3天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[黄仕忠｜乡村六记（三）：斫柴记 (澎湃思想 私家历史)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_24565543</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24565543"/>
         <updated>2023-10-19T05:32:45.898Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24565543"><img src="https://imagecloud.thepaper.cn/thepaper/image/269/815/361.jpg?x-oss-process=image/resize,w_332" alt="黄仕忠｜乡村六记（三）：斫柴记"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24565543"><h3 class="index_title__aGAqD">黄仕忠｜乡村六记（三）：斫柴记</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>3天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24565543"><img src="https://imagecloud.thepaper.cn/thepaper/image/269/815/361.jpg?x-oss-process=image/resize,w_332" alt="黄仕忠｜乡村六记（三）：斫柴记"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24565543"><h3 class="index_title__aGAqD">黄仕忠｜乡村六记（三）：斫柴记</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>4天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[郑嘉励：什么样的故事是好的历史写作？ (澎湃思想 私家历史)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_24952013</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24952013"/>
         <updated>2023-10-19T05:32:45.903Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24952013"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/597/587.jpg?x-oss-process=image/resize,w_332" alt="郑嘉励：什么样的故事是好的历史写作？"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24952013"><h3 class="index_title__aGAqD">郑嘉励：什么样的故事是好的历史写作？</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>3天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从东南亚出发︱双城记：从琅勃拉邦到清迈 (澎湃思想 私家历史)]]></title>
-        <id>https://m.thepaper.cn/newsDetail_forward_24894251</id>
-        <link href="https://m.thepaper.cn/newsDetail_forward_24894251"/>
-        <updated>2023-10-18T17:32:19.655Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24894251"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/444/661.jpg?x-oss-process=image/resize,w_332" alt="从东南亚出发︱双城记：从琅勃拉邦到清迈"><span class="watermark_duration"><i class="icon_common icon_videos"></i><i class="watermark_num">1</i></span></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24894251"><h3 class="index_title__aGAqD">从东南亚出发︱双城记：从琅勃拉邦到清迈</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>4天前</span></div><div class="adm-space-item"><span> <!-- -->12<!-- -->评<!-- --></span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海都市化180年｜熊月之：上海开埠、华洋混处与利益共同体 (澎湃思想 私家历史)]]></title>
-        <id>https://m.thepaper.cn/newsDetail_forward_24861271</id>
-        <link href="https://m.thepaper.cn/newsDetail_forward_24861271"/>
-        <updated>2023-10-18T05:32:23.326Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24861271"><img src="https://imagecloud.thepaper.cn/thepaper/image/273/306/473.jpg?x-oss-process=image/resize,w_332" alt="上海都市化180年｜熊月之：上海开埠、华洋混处与利益共同体"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24861271"><h3 class="index_title__aGAqD">上海都市化180年｜熊月之：上海开埠、华洋混处与利益共同体</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>4天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24952013"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/597/587.jpg?x-oss-process=image/resize,w_332" alt="郑嘉励：什么样的故事是好的历史写作？"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24952013"><h3 class="index_title__aGAqD">郑嘉励：什么样的故事是好的历史写作？</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>4天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[湃书单｜澎湃新闻编辑们在读的18本书：离开学术界 (澎湃思想 翻书党)]]></title>
@@ -1579,11 +1583,25 @@
         <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24919326"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/138/145.jpg?x-oss-process=image/resize,w_332" alt="湃书单｜澎湃新闻编辑们在读的18本书：离开学术界"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24919326"><h3 class="index_title__aGAqD">湃书单｜澎湃新闻编辑们在读的18本书：离开学术界</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>2023-10-15</span></div></div><span class="index_item_label__RwoaG">推荐</span></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[专访｜作家陆秋槎：为什么一定要从零开始？明明有这么多传统 (澎湃思想 翻书党)]]></title>
+        <id>https://m.thepaper.cn/newsDetail_forward_25018049</id>
+        <link href="https://m.thepaper.cn/newsDetail_forward_25018049"/>
+        <updated>2023-10-23T05:32:22.142Z</updated>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_25018049"><img src="https://imagecloud.thepaper.cn/thepaper/image/275/153/99.jpg?x-oss-process=image/resize,w_332" alt="专访｜作家陆秋槎：为什么一定要从零开始？明明有这么多传统"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_25018049"><h3 class="index_title__aGAqD">专访｜作家陆秋槎：为什么一定要从零开始？明明有这么多传统</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>1小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《文选》与《文选》学：从文学经典、学术热点到文化现象 (澎湃思想 翻书党)]]></title>
+        <id>https://m.thepaper.cn/newsDetail_forward_25020975</id>
+        <link href="https://m.thepaper.cn/newsDetail_forward_25020975"/>
+        <updated>2023-10-23T05:32:22.144Z</updated>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_25020975"><img src="https://imagecloud.thepaper.cn/thepaper/image/275/222/976.png?x-oss-process=image/resize,w_332" alt="《文选》与《文选》学：从文学经典、学术热点到文化现象"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_25020975"><h3 class="index_title__aGAqD">《文选》与《文选》学：从文学经典、学术热点到文化现象</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>2小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[明清之际的民间厨刀与铁锅 (澎湃思想 翻书党)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_25015020</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_25015020"/>
         <updated>2023-10-22T05:32:40.750Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_25015020"><img src="https://imagecloud.thepaper.cn/thepaper/image/275/92/283.jpg?x-oss-process=image/resize,w_332" alt="明清之际的民间厨刀与铁锅"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_25015020"><h3 class="index_title__aGAqD">明清之际的民间厨刀与铁锅</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>12小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_25015020"><img src="https://imagecloud.thepaper.cn/thepaper/image/275/92/283.jpg?x-oss-process=image/resize,w_332" alt="明清之际的民间厨刀与铁锅"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_25015020"><h3 class="index_title__aGAqD">明清之际的民间厨刀与铁锅</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>1天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[叙诡笔记｜《谐铎》里的两则“罗刹海市” (澎湃思想 翻书党)]]></title>
@@ -1597,7 +1615,7 @@
         <id>https://m.thepaper.cn/newsDetail_forward_25000957</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_25000957"/>
         <updated>2023-10-21T05:32:26.768Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_25000957"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/917/74.jpg?x-oss-process=image/resize,w_332" alt="约恩·福瑟：来自北方的孤独先生"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_25000957"><h3 class="index_title__aGAqD">约恩·福瑟：来自北方的孤独先生</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>1天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_25000957"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/917/74.jpg?x-oss-process=image/resize,w_332" alt="约恩·福瑟：来自北方的孤独先生"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_25000957"><h3 class="index_title__aGAqD">约恩·福瑟：来自北方的孤独先生</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>2天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[王国平：我与南怀瑾结缘 (澎湃思想 翻书党)]]></title>
@@ -1618,7 +1636,7 @@
         <id>https://m.thepaper.cn/newsDetail_forward_24987868</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24987868"/>
         <updated>2023-10-20T05:32:16.514Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24987868"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/763/596.jpg?x-oss-process=image/resize,w_332" alt="一周文化讲座｜面对衰老和死亡，这三位大龄女性做了怎样的突围"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24987868"><h3 class="index_title__aGAqD">一周文化讲座｜面对衰老和死亡，这三位大龄女性做了怎样的突围</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>2天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24987868"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/763/596.jpg?x-oss-process=image/resize,w_332" alt="一周文化讲座｜面对衰老和死亡，这三位大龄女性做了怎样的突围"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24987868"><h3 class="index_title__aGAqD">一周文化讲座｜面对衰老和死亡，这三位大龄女性做了怎样的突围</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>3天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[伦敦访书记 (澎湃思想 翻书党)]]></title>
@@ -1632,63 +1650,49 @@
         <id>https://m.thepaper.cn/newsDetail_forward_24951993</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24951993"/>
         <updated>2023-10-19T05:32:52.424Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24951993"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/579/179.jpg?x-oss-process=image/resize,w_332" alt="当其他国家想完全效仿英国工业革命时，为何出现了重大差异"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24951993"><h3 class="index_title__aGAqD">当其他国家想完全效仿英国工业革命时，为何出现了重大差异</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>3天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尽管经典作家的名单一直在变，但经典作为一种标准始终不变 (澎湃思想 翻书党)]]></title>
-        <id>https://m.thepaper.cn/newsDetail_forward_24940366</id>
-        <link href="https://m.thepaper.cn/newsDetail_forward_24940366"/>
-        <updated>2023-10-19T05:32:52.426Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24940366"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/249/118.jpg?x-oss-process=image/resize,w_332" alt="尽管经典作家的名单一直在变，但经典作为一种标准始终不变"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24940366"><h3 class="index_title__aGAqD">尽管经典作家的名单一直在变，但经典作为一种标准始终不变</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>3天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学值得信任之处不来自确定性，而来自面对不确定的开放态度 (澎湃思想 翻书党)]]></title>
-        <id>https://m.thepaper.cn/newsDetail_forward_24940341</id>
-        <link href="https://m.thepaper.cn/newsDetail_forward_24940341"/>
-        <updated>2023-10-18T05:32:29.116Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24940341"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/249/130.jpg?x-oss-process=image/resize,w_332" alt="科学值得信任之处不来自确定性，而来自面对不确定的开放态度"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24940341"><h3 class="index_title__aGAqD">科学值得信任之处不来自确定性，而来自面对不确定的开放态度</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>4天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24951993"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/579/179.jpg?x-oss-process=image/resize,w_332" alt="当其他国家想完全效仿英国工业革命时，为何出现了重大差异"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24951993"><h3 class="index_title__aGAqD">当其他国家想完全效仿英国工业革命时，为何出现了重大差异</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>4天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上海书评周刊 (澎湃思想 上海书评)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_2006977</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_2006977"/>
         <updated>2023-06-19T13:00:42.752Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_2006977"><img src="https://imagecloud.thepaper.cn/thepaper/image/275/139/645.jpg?x-oss-process=image/resize,w_332" alt="上海书评周刊"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_2006977"><h3 class="index_title__aGAqD">上海书评周刊</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>14小时前</span></div><div class="adm-space-item"><span> <!-- -->25<!-- -->评<!-- --></span></div></div><span class="index_item_label__RwoaG">推荐</span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_2006977"><img src="https://imagecloud.thepaper.cn/thepaper/image/275/139/645.jpg?x-oss-process=image/resize,w_332" alt="上海书评周刊"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_2006977"><h3 class="index_title__aGAqD">上海书评周刊</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>1天前</span></div><div class="adm-space-item"><span> <!-- -->25<!-- -->评<!-- --></span></div></div><span class="index_item_label__RwoaG">推荐</span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[龙漫远谈神话、宗教和新基因的起源 (澎湃思想 上海书评)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_24999020</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24999020"/>
         <updated>2023-10-22T05:32:47.657Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24999020"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/905/87.jpg?x-oss-process=image/resize,w_332" alt="龙漫远谈神话、宗教和新基因的起源"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24999020"><h3 class="index_title__aGAqD">龙漫远谈神话、宗教和新基因的起源</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>14小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24999020"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/905/87.jpg?x-oss-process=image/resize,w_332" alt="龙漫远谈神话、宗教和新基因的起源"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24999020"><h3 class="index_title__aGAqD">龙漫远谈神话、宗教和新基因的起源</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>1天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[梅申友评插图珍藏版《古舟子咏》︱让人心甘情愿进入假象世界 (澎湃思想 上海书评)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_24947787</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24947787"/>
         <updated>2023-10-21T05:32:33.823Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24947787"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/318/82.jpg?x-oss-process=image/resize,w_332" alt="梅申友评插图珍藏版《古舟子咏》︱让人心甘情愿进入假象世界"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24947787"><h3 class="index_title__aGAqD">梅申友评插图珍藏版《古舟子咏》︱让人心甘情愿进入假象世界</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>1天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24947787"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/318/82.jpg?x-oss-process=image/resize,w_332" alt="梅申友评插图珍藏版《古舟子咏》︱让人心甘情愿进入假象世界"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24947787"><h3 class="index_title__aGAqD">梅申友评插图珍藏版《古舟子咏》︱让人心甘情愿进入假象世界</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>2天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[纪念格丽克｜李雨轩：“会爱的那部分，会死的那部分”——格丽克的死亡之诗 (澎湃思想 上海书评)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_24991205</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24991205"/>
         <updated>2023-10-20T05:32:22.411Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24991205"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/803/286.jpg?x-oss-process=image/resize,w_332" alt="纪念格丽克｜李雨轩：“会爱的那部分，会死的那部分”——格丽克的死亡之诗"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24991205"><h3 class="index_title__aGAqD">纪念格丽克｜李雨轩：“会爱的那部分，会死的那部分”——格丽克的死亡之诗</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>2天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24991205"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/803/286.jpg?x-oss-process=image/resize,w_332" alt="纪念格丽克｜李雨轩：“会爱的那部分，会死的那部分”——格丽克的死亡之诗"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24991205"><h3 class="index_title__aGAqD">纪念格丽克｜李雨轩：“会爱的那部分，会死的那部分”——格丽克的死亡之诗</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>3天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[李公明︱一周书记：在事业与家庭之间……为性别平等呐喊 (澎湃思想 上海书评)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_24977993</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24977993"/>
         <updated>2023-10-19T05:32:59.044Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24977993"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/651/416.jpg?x-oss-process=image/resize,w_332" alt="李公明︱一周书记：在事业与家庭之间……为性别平等呐喊"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24977993"><h3 class="index_title__aGAqD">李公明︱一周书记：在事业与家庭之间……为性别平等呐喊</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>3天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24977993"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/651/416.jpg?x-oss-process=image/resize,w_332" alt="李公明︱一周书记：在事业与家庭之间……为性别平等呐喊"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24977993"><h3 class="index_title__aGAqD">李公明︱一周书记：在事业与家庭之间……为性别平等呐喊</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>4天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[廖靖靖读《唐虢国夫人》︱多面伊人：虢国夫人与她的时代 (澎湃思想 上海书评)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_24944505</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24944505"/>
         <updated>2023-10-19T05:32:59.047Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24944505"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/604/519.jpg?x-oss-process=image/resize,w_332" alt="廖靖靖读《唐虢国夫人》︱多面伊人：虢国夫人与她的时代"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24944505"><h3 class="index_title__aGAqD">廖靖靖读《唐虢国夫人》︱多面伊人：虢国夫人与她的时代</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>3天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24944505"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/604/519.jpg?x-oss-process=image/resize,w_332" alt="廖靖靖读《唐虢国夫人》︱多面伊人：虢国夫人与她的时代"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24944505"><h3 class="index_title__aGAqD">廖靖靖读《唐虢国夫人》︱多面伊人：虢国夫人与她的时代</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>4天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[孟鉴评《美国医疗的社会变迁》｜历史社会学如何平衡历史特殊性与理论普遍性 (澎湃思想 上海书评)]]></title>
@@ -1702,14 +1706,14 @@
         <id>https://m.thepaper.cn/newsDetail_forward_24953502</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24953502"/>
         <updated>2023-10-17T05:32:55.414Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24953502"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/419/576.jpg?x-oss-process=image/resize,w_332" alt="朱灿评《勃朗特迷思》｜约克郡荒原上的灯与影"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24953502"><h3 class="index_title__aGAqD">朱灿评《勃朗特迷思》｜约克郡荒原上的灯与影</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>5天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24953502"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/419/576.jpg?x-oss-process=image/resize,w_332" alt="朱灿评《勃朗特迷思》｜约克郡荒原上的灯与影"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24953502"><h3 class="index_title__aGAqD">朱灿评《勃朗特迷思》｜约克郡荒原上的灯与影</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>6天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[窦瑞敏︱何振岱为陈宝琛代笔考 (澎湃思想 上海书评)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_24925217</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_24925217"/>
         <updated>2023-10-16T05:32:51.967Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24925217"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/250/45.jpg?x-oss-process=image/resize,w_332" alt="窦瑞敏︱何振岱为陈宝琛代笔考"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24925217"><h3 class="index_title__aGAqD">窦瑞敏︱何振岱为陈宝琛代笔考</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>6天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_24925217"><img src="https://imagecloud.thepaper.cn/thepaper/image/274/250/45.jpg?x-oss-process=image/resize,w_332" alt="窦瑞敏︱何振岱为陈宝琛代笔考"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_24925217"><h3 class="index_title__aGAqD">窦瑞敏︱何振岱为陈宝琛代笔考</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>2023-10-16</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[程章灿谈作为物质文化的石刻文献 (澎湃思想 上海书评)]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.bjnews.com.cn/culture</id>
     <title>新京报文化</title>
-    <updated>2024-04-24T05:31:51.245Z</updated>
+    <updated>2024-04-24T17:32:12.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.bjnews.com.cn/favicon.ico</icon>
     <entry>
@@ -33,9 +33,9 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="see">2.3万</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">27分钟前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -90,14 +90,179 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="see">2.4万</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">27分钟前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1713934851169010" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第七季“多多读书月”启幕：联合千余家书商，首度补贴万余种图书]]></title>
+        <id>https://www.bjnews.com.cn/detail/1713959827169049.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1713959827169049.html"/>
+        <updated>2024-04-24T17:31:47.447Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1713959827169049.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            第七季“多多读书月”启幕：联合千余家书商，首度补贴万余种图书</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1713959827169049.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2024/4/mapj2024424195761873349.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="第七季“多多读书月”启幕：联合千余家书商，首度补贴万余种图书">
+                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1713959827169049.html" target="_blank">
+                                                                    4月21日第七季“多多读书月”如约开启，为期一个月。恰逢世界读书日，读书人“突击拼书”的时候又到了。经过前六季的沉淀，本季读书月活动深化...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                文化现场                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1713959827169049" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简·奥斯汀博物馆呼吁公众帮助解读回忆录笔迹，一天收到数千回复]]></title>
+        <id>https://www.bjnews.com.cn/detail/1713959843169050.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1713959843169050.html"/>
+        <updated>2024-04-24T17:31:47.447Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1713959843169050.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            简·奥斯汀博物馆呼吁公众帮助解读回忆录笔迹，一天收到数千回复</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1713959843169050.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2024/4/mapj20244241957221873351.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="简·奥斯汀博物馆呼吁公众帮助解读回忆录笔迹，一天收到数千回复">
+                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1713959843169050.html" target="_blank">
+                                                                    英国的简·奥斯汀故居博物馆近日发起了一项活动，邀请公众帮助解读简·奥斯汀的哥哥弗朗西斯·奥斯汀的回忆录。活动引起了热烈反响，在不到一...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                文化现场                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1713959843169050" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《打破社交媒体棱镜：探寻网络政治极化的根源》｜每日一书]]></title>
+        <id>https://www.bjnews.com.cn/detail/1713947473168314.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1713947473168314.html"/>
+        <updated>2024-04-24T17:31:47.447Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1713947473168314.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            《打破社交媒体棱镜：探寻网络政治极化的根源》｜每日一书</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1713947473168314.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2024/4/mapj20244241631121872724.jpeg?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="《打破社交媒体棱镜：探寻网络政治极化的根源》｜每日一书">
+                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1713947473168314.html" target="_blank">
+                                                                    每个月，我们向读者推荐一系列最新出品的好书名单。这是3月新书月榜中的《打破社交媒体棱镜》。                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书托邦                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1713947473168314" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->
@@ -383,6 +548,63 @@
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1713868924169960" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[视频荐书｜《赞美闲散》]]></title>
+        <id>https://www.bjnews.com.cn/detail/1713939712129435.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1713939712129435.html"/>
+        <updated>2024-04-24T17:31:47.461Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1713939712129435.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            视频荐书｜《赞美闲散》</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1713939712129435.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/cover/2024/03/25/5436404593904922476.jpeg?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="视频荐书｜《赞美闲散》">
+                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1713939712129435.html" target="_blank">
+                                                                    欢迎来到“视频荐书”栏目。在这个栏目中，我们将通过视频的形式，与你分享新书中的精彩片段。                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书托邦                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="see">2.8万</span>
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1713939712129435" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->
@@ -896,234 +1118,6 @@
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1713698452169847" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杜甫：山川绝险，即使逃难途中，也有动人的风景丨周末读诗]]></title>
-        <id>https://www.bjnews.com.cn/detail/1713588614169803.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1713588614169803.html"/>
-        <updated>2024-04-20T05:31:16.606Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1713588614169803.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            杜甫：山川绝险，即使逃难途中，也有动人的风景丨周末读诗</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1713588614169803.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2024/4/mapj20244201250131864159.jpg?x-oss-process=image/resize,m_lfit,w_365/quality,q_80" data-bd-imgshare-binded="1" alt="杜甫：山川绝险，即使逃难途中，也有动人的风景丨周末读诗">
-                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1713588614169803.html" target="_blank">
-                                                                    杜甫一家，入蜀路上，道途险难，曾数次渡嘉陵江，有昼渡，有夜渡，惊心动魄，他都写诗纪行。山水佳胜，对于古代行旅之人，实为畏途，绝壁高...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                杂志活页                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">7.1万</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1713588614169803" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界痛风日丨专访珀尔马特：更合理的饮食方案是未经加工的食物]]></title>
-        <id>https://www.bjnews.com.cn/detail/1713614600169826.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1713614600169826.html"/>
-        <updated>2024-04-21T05:31:48.679Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1713614600169826.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            世界痛风日丨专访珀尔马特：更合理的饮食方案是未经加工的食物</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1713614600169826.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2024/4/mapj2024420203191865030.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="世界痛风日丨专访珀尔马特：更合理的饮食方案是未经加工的食物">
-                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1713614600169826.html" target="_blank">
-                                                                    在过去，尿酸常被描述为一种无害的惰性代谢“废物”，而在《疯狂的尿酸》中，珀尔马特指出，长久以来不受认为重视的尿酸，事实上在人体最基础...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                书托邦                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.1万</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1713614600169826" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哲学家丹尼尔·丹尼特：人类不过是一台运行算法的计算机丨逝者]]></title>
-        <id>https://www.bjnews.com.cn/detail/1713615592168119.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1713615592168119.html"/>
-        <updated>2024-04-21T05:31:48.680Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1713615592168119.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            哲学家丹尼尔·丹尼特：人类不过是一台运行算法的计算机丨逝者</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1713615592168119.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2024/4/mapj20244202019521865074.jpg?x-oss-process=image/resize,m_lfit,w_365/quality,q_80" data-bd-imgshare-binded="1" alt="哲学家丹尼尔·丹尼特：人类不过是一台运行算法的计算机丨逝者">
-                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1713615592168119.html" target="_blank">
-                                                                    据多方消息，当代著名哲学家、塔夫茨大学哲学系教授丹尼尔·丹尼特（Daniel Dennett）于当地时间4月19日在伯特兰去世，享年82岁。                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                文化现场                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.2万</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1713615592168119" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《你啊，内心戏超多》：如何停止“精神内耗”？]]></title>
-        <id>https://www.bjnews.com.cn/detail/1713588666169805.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1713588666169805.html"/>
-        <updated>2024-04-20T05:31:16.608Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1713588666169805.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            《你啊，内心戏超多》：如何停止“精神内耗”？</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                                                                            <a href="https://www.bjnews.com.cn/detail/1713588666169805.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2024/4/mapj2024420125151864171.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="《你啊，内心戏超多》：如何停止“精神内耗”？">
-                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1713588666169805.html" target="_blank">
-                                                                    松浦弥太郎说：“所谓人生困境，不过是你胡思乱想，自我设置的枷锁。”当我们因胡思乱想而疲劳或焦虑时，你需要的是“停止消耗自己”。在《你啊...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                书托邦                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">9301</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1713588666169805" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.bjnews.com.cn/culture</id>
     <title>新京报文化</title>
-    <updated>2024-12-10T05:40:15.558Z</updated>
+    <updated>2024-12-10T17:39:07.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.bjnews.com.cn/favicon.ico</icon>
     <entry>
@@ -31,16 +31,124 @@
                                                             <span class="source">
                                                                                                                                 杂志活页                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">3小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1733797952168572" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024《自然》年度十大人物揭晓，两位中国科学家入选]]></title>
+        <id>https://www.bjnews.com.cn/detail/1733826809168642.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1733826809168642.html"/>
+        <updated>2024-12-10T17:38:44.373Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1733826809168642.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            2024《自然》年度十大人物揭晓，两位中国科学家入选</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1733826809168642.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2024/12/mapj202412101833282287895.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="2024《自然》年度十大人物揭晓，两位中国科学家入选">
+                                                                                                                                                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1733826809168642.html" target="_blank">
+                                                                    当地时间12月9日，英国《自然》杂志（Nature）网站发布了2024年度十大推动科学发展人物榜单。中国人民解放军海军军医大学风湿病专家徐沪济...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                文化现场                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1733826809168642" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从“妖术”到艺术：一波三折的中国早期照相发展]]></title>
+        <id>https://www.bjnews.com.cn/detail/1733829685168661.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1733829685168661.html"/>
+        <updated>2024-12-10T17:38:44.373Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1733829685168661.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            从“妖术”到艺术：一波三折的中国早期照相发展</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1733829685168661.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2024/12/mapj202412101921242288012.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="从“妖术”到艺术：一波三折的中国早期照相发展">
+                                                                                                                                                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1733829685168661.html" target="_blank">
+                                                                    在智能手机年代，拍照是人们最常用的手机功能之一。如今人人都可以是摄影师，人人都掌握了摄像的技术和艺术。摄像在成为一种艺术之前，也曾...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书托邦                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1733829685168661" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->
@@ -90,9 +198,9 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">1727</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">2小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -147,7 +255,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">6394</span>
+                                                                                                                            <span class="see">8477</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -261,7 +369,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">5022</span>
+                                                                                                                            <span class="see">5253</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -316,7 +424,9 @@
                                                             <span class="source">
                                                                                                                                 书托邦                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">1623</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -487,7 +597,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="zan">150</span>
+                                                                                                                            <span class="zan">162</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -544,7 +654,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">6391</span>
+                                                                                                                            <span class="see">7446</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -658,7 +768,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">6308</span>
+                                                                                                                            <span class="see">6867</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -715,7 +825,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">5245</span>
+                                                                                                                            <span class="see">5372</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -880,7 +990,9 @@
                                                             <span class="source">
                                                                                                                                 文化现场                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="see">5156</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -992,7 +1104,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">5553</span>
+                                                                                                                            <span class="see">5816</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -1000,118 +1112,6 @@
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1733465077168303" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《梦的银行》｜每日一书]]></title>
-        <id>https://www.bjnews.com.cn/detail/1733451415168262.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1733451415168262.html"/>
-        <updated>2024-12-06T05:39:14.563Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1733451415168262.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            《梦的银行》｜每日一书</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1733451415168262.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2024/12/mapj20241261016542281946.jpeg?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="《梦的银行》｜每日一书">
-                                                                                                                                                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1733451415168262.html" target="_blank">
-                                                                    这是“童书新品联合书单”的第33期。我们每期会从各品牌筛选新上市的童书，兼顾各年龄段孩子，在选品上注重图书内容的启发性和新颖性。本篇为...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                书托邦                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1733451415168262" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回望“大女主”热潮：女性叙事是出走，更是“奔向”]]></title>
-        <id>https://www.bjnews.com.cn/detail/1733377244168175.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1733377244168175.html"/>
-        <updated>2024-12-05T17:38:11.691Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1733377244168175.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            回望“大女主”热潮：女性叙事是出走，更是“奔向”</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1733377244168175.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2024/12/mapj20241251340422280237.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="回望“大女主”热潮：女性叙事是出走，更是“奔向”">
-                                                                                                                                                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1733377244168175.html" target="_blank">
-                                                                    在先锋与传统的价值观争论中，女性群体的分裂正在加剧。这种分裂在文艺作品中展现得淋漓尽致。                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                文化现场                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.4万</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1733377244168175" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->

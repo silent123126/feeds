@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://silent123126.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-29T05:40:22.296Z</updated>
+    <updated>2025-09-29T17:34:44.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[谁说我长胖了，这是对生活过敏而导致的水肿 | 一周新书推荐 (界面文化)]]></title>
@@ -45,16 +45,6 @@
             </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025布克奖短名单公布，美国作家占半壁江山 (界面文化)]]></title>
-        <id>https://m.jiemian.com/article/13390956.html</id>
-        <link href="https://m.jiemian.com/article/13390956.html"/>
-        <updated>2025-09-24T05:37:13.795Z</updated>
-        <content type="html"><![CDATA[<h3>
-                <a href="https://m.jiemian.com/article/13390956.html">
-                2025布克奖短名单公布，美国作家占半壁江山</a>
-            </h3>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[豆瓣书店，19年青春散场 (界面文化)]]></title>
         <id>https://m.jiemian.com/article/13385756.html</id>
         <link href="https://m.jiemian.com/article/13385756.html"/>
@@ -62,6 +52,16 @@
         <content type="html"><![CDATA[<h3>
                 <a href="https://m.jiemian.com/article/13385756.html">
                 豆瓣书店，19年青春散场</a>
+            </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025布克奖短名单公布，美国作家占半壁江山 (界面文化)]]></title>
+        <id>https://m.jiemian.com/article/13390956.html</id>
+        <link href="https://m.jiemian.com/article/13390956.html"/>
+        <updated>2025-09-24T05:37:13.795Z</updated>
+        <content type="html"><![CDATA[<h3>
+                <a href="https://m.jiemian.com/article/13390956.html">
+                2025布克奖短名单公布，美国作家占半壁江山</a>
             </h3>]]></content>
     </entry>
     <entry>
@@ -230,11 +230,9 @@
                                                             <span class="source">
                                                                                                                                 书评周刊                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">3小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -289,14 +287,124 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">211</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">2小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1759114422168945" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《族群与边界》：最让人类学学生“头秃”的专业著作 (新京报文化)]]></title>
+        <id>https://www.bjnews.com.cn/detail/1759143369168977.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1759143369168977.html"/>
+        <updated>2025-09-29T17:34:19.156Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1759143369168977.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            《族群与边界》：最让人类学学生“头秃”的专业著作</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1759143369168977.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/9/mapj2025929185682717252.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="《族群与边界》：最让人类学学生“头秃”的专业著作">
+                                                                                                                                                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1759143369168977.html" target="_blank">
+                                                                    弗雷德里克·巴特是20世纪全世界最为活跃的田野工作者之一，也是族群研究绕不过的人类学家，他的经典著作《族群与边界》不仅开创了族群研究...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书托邦                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1759143369168977" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彭国翔：如何在变动不居的世界中安顿身心？ (新京报文化)]]></title>
+        <id>https://www.bjnews.com.cn/detail/1759143384168978.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1759143384168978.html"/>
+        <updated>2025-09-29T17:34:19.156Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1759143384168978.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            彭国翔：如何在变动不居的世界中安顿身心？</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1759143384168978.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/9/mapj20259291856222717256.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="彭国翔：如何在变动不居的世界中安顿身心？">
+                                                                                                                                                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1759143384168978.html" target="_blank">
+                                                                    在信息纷扰、节奏加速的时代，如何安顿自我？如何构建一个善意的意义世界？在儒家传统的“功夫论”看来，成人之道，正在于日常之间的身心修炼...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                文化现场                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1759143384168978" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->
@@ -344,11 +452,9 @@
                                                             <span class="source">
                                                                                                                                 书托邦                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">3小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -859,7 +965,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">9330</span>
+                                                                                                                            <span class="see">9371</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -867,6 +973,61 @@
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1758965146168857" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对疼痛的一个哲学反思｜新京报中文学术文摘 (新京报文化)]]></title>
+        <id>https://www.bjnews.com.cn/detail/1759148591168980.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1759148591168980.html"/>
+        <updated>2025-09-29T17:34:19.176Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1759148591168980.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            对疼痛的一个哲学反思｜新京报中文学术文摘</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1759148591168980.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/9/mapj20259292023102717515.jpg?x-oss-process=image/resize,m_lfit,w_365/quality,q_80" data-bd-imgshare-binded="1" alt="对疼痛的一个哲学反思｜新京报中文学术文摘">
+                                                                                                                                                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1759148591168980.html" target="_blank">
+                                                                    这里是“新京报中文学术文摘”。我们希望将近期兼具专业性和前沿性的论文传递给大家，我们还希望所选论文具有鲜明的本土或世界问题意识，具有...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书评周刊                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1759148591168980" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->
@@ -1174,177 +1335,6 @@
                                                         <div class="pin_line"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《用爱守护遗忘时间的人》 | 每日一书 (新京报文化)]]></title>
-        <id>https://www.bjnews.com.cn/detail/1758796656168735.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1758796656168735.html"/>
-        <updated>2025-09-25T17:36:08.585Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1758796656168735.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            《用爱守护遗忘时间的人》 | 每日一书</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1758796656168735.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/9/mapj20259251837352711138.jpeg?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="《用爱守护遗忘时间的人》 | 每日一书">
-                                                                                                                                                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1758796656168735.html" target="_blank">
-                                                                    9月21日是第32个“世界阿尔茨海默病日”，今年的阿尔茨海默病日主题为“早防早治，守护认知”。书评君特别整理了一份书单，以期帮助大家在提高...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                书托邦                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.1万</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1758796656168735" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能会取代“听障人士字幕组”吗？ (新京报文化)]]></title>
-        <id>https://www.bjnews.com.cn/detail/1758795607168734.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1758795607168734.html"/>
-        <updated>2025-09-25T17:36:08.585Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1758795607168734.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            人工智能会取代“听障人士字幕组”吗？</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1758795607168734.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/9/mapj2025925182062711105.jpg?x-oss-process=image/resize,m_lfit,w_365/quality,q_80" data-bd-imgshare-binded="1" alt="人工智能会取代“听障人士字幕组”吗？">
-                                                                                                                                                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1758795607168734.html" target="_blank">
-                                                                    人工智能的发展正在提升多项工作的效率。它会逐渐取代专门服务于听障人士的字幕行业吗？近日英国《卫报》探讨了这个问题。我们或许猜测人工...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                文化现场                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.7万</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1758795607168734" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当一个左右不分的人开始跳舞 (新京报文化)]]></title>
-        <id>https://www.bjnews.com.cn/detail/1758786711168720.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1758786711168720.html"/>
-        <updated>2025-09-25T17:36:08.580Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1758786711168720.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            当一个左右不分的人开始跳舞</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1758786711168720.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/9/mapj20259251551502710743.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="当一个左右不分的人开始跳舞">
-                                                                                                                                                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1758786711168720.html" target="_blank">
-                                                                    这里是“写在理论边上”专栏。顾名思义，“写在理论边上”注目理论边上的体验，也看到理论之外的困惑。而在它们之间，我们还有更多思考。                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                杂志活页                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.8万</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1758786711168720" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[瓜达卢佩·内特尔 | “感情和真菌有相似之处” (凤凰文化)]]></title>
         <id>https://culture.ifeng.com/c/8mxYkCg03pg</id>
         <link href="https://culture.ifeng.com/c/8mxYkCg03pg"/>
@@ -1510,14 +1500,14 @@
         <id>https://m.thepaper.cn/newsDetail_forward_31539184</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_31539184"/>
         <updated>2025-09-29T05:40:07.538Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31539184"><img src="https://imgpai.thepaper.cn/newpai/image/1756986049822_2MQSMD_1756986049823.png?x-oss-process=image/resize,w_332" alt="柳向春：吴湖帆与徐森玉的一樁趣事"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31539184"><h3 class="index_title__aGAqD">柳向春：吴湖帆与徐森玉的一樁趣事</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>1小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31539184"><img src="https://imgpai.thepaper.cn/newpai/image/1756986049822_2MQSMD_1756986049823.png?x-oss-process=image/resize,w_332" alt="柳向春：吴湖帆与徐森玉的一樁趣事"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31539184"><h3 class="index_title__aGAqD">柳向春：吴湖帆与徐森玉的一樁趣事</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>13小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[价格体系、货币制度、自然规律下的历史、社会和人 (澎湃思想 私家历史)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_31699519</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_31699519"/>
         <updated>2025-09-29T05:40:07.538Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31699519"><img src="https://imgpai.thepaper.cn/newpai/image/1759045146106_skwk6z_1759045146330.png?x-oss-process=image/resize,w_332" alt="价格体系、货币制度、自然规律下的历史、社会和人"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31699519"><h3 class="index_title__aGAqD">价格体系、货币制度、自然规律下的历史、社会和人</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>1小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31699519"><img src="https://imgpai.thepaper.cn/newpai/image/1759045146106_skwk6z_1759045146330.png?x-oss-process=image/resize,w_332" alt="价格体系、货币制度、自然规律下的历史、社会和人"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31699519"><h3 class="index_title__aGAqD">价格体系、货币制度、自然规律下的历史、社会和人</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>13小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[全球寓于地方：从《磨合》看全球史与微观史的融合新径 (澎湃思想 私家历史)]]></title>
@@ -1566,7 +1556,7 @@
         <id>https://m.thepaper.cn/newsDetail_forward_31617748</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_31617748"/>
         <updated>2025-09-25T17:36:21.296Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31617748"><img src="https://imgpai.thepaper.cn/newpai/image/1758727914220_tp37j8_1758727914502.png?x-oss-process=image/resize,w_332" alt="科举停废120年｜倏忽百廿：“末科进士”研究之意蕴、回溯与前瞻"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31617748"><h3 class="index_title__aGAqD">科举停废120年｜倏忽百廿：“末科进士”研究之意蕴、回溯与前瞻</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>3天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31617748"><img src="https://imgpai.thepaper.cn/newpai/image/1758727914220_tp37j8_1758727914502.png?x-oss-process=image/resize,w_332" alt="科举停废120年｜倏忽百廿：“末科进士”研究之意蕴、回溯与前瞻"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31617748"><h3 class="index_title__aGAqD">科举停废120年｜倏忽百廿：“末科进士”研究之意蕴、回溯与前瞻</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25457">私家历史</a></div></div><div class="adm-space-item"><span>4天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“罐”中窥豹：沉船所见唐宋珠江口湾区的航海贸易与外向型陶瓷业 (澎湃思想 私家历史)]]></title>
@@ -1583,18 +1573,25 @@
         <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31610784"><img src="https://imgpai.thepaper.cn/newpai/image/1757921409827_knms4B_1757921410079.png?x-oss-process=image/resize,w_332" alt="湃书单｜澎湃新闻编辑们在读的13本书：教育的可能"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31610784"><h3 class="index_title__aGAqD">湃书单｜澎湃新闻编辑们在读的13本书：教育的可能</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>2025-09-15</span></div></div><span class="index_item_label__RwoaG">推荐</span></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[阿尔茨海默病：认知能力衰退的7个阶段 (澎湃思想 翻书党)]]></title>
+        <id>https://m.thepaper.cn/newsDetail_forward_31686657</id>
+        <link href="https://m.thepaper.cn/newsDetail_forward_31686657"/>
+        <updated>2025-09-29T17:34:38.772Z</updated>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31686657"><img src="https://imgpai.thepaper.cn/newpai/image/1758885959024_dzp5n3_1758885959762.png?x-oss-process=image/resize,w_332" alt="阿尔茨海默病：认知能力衰退的7个阶段"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31686657"><h3 class="index_title__aGAqD">阿尔茨海默病：认知能力衰退的7个阶段</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>8小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[跨海论汉｜美国汉学家贺萧：工人、女性、农村 (澎湃思想 翻书党)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_31682639</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_31682639"/>
         <updated>2025-09-29T05:40:13.868Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31682639"><img src="https://imgpai.thepaper.cn/newpai/image/1759062250621_PM5e3d_1759062250923.png?x-oss-process=image/resize,w_332" alt="跨海论汉｜美国汉学家贺萧：工人、女性、农村"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31682639"><h3 class="index_title__aGAqD">跨海论汉｜美国汉学家贺萧：工人、女性、农村</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>1小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31682639"><img src="https://imgpai.thepaper.cn/newpai/image/1759062250621_PM5e3d_1759062250923.png?x-oss-process=image/resize,w_332" alt="跨海论汉｜美国汉学家贺萧：工人、女性、农村"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31682639"><h3 class="index_title__aGAqD">跨海论汉｜美国汉学家贺萧：工人、女性、农村</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>13小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9月人文社科联合书单｜刺秦：重新认识秦王朝 (澎湃思想 翻书党)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_31696917</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_31696917"/>
         <updated>2025-09-29T05:40:13.869Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31696917"><img src="https://imgpai.thepaper.cn/newpai/image/1758979341656_p3c4r3_1758979341822.png?x-oss-process=image/resize,w_332" alt="9月人文社科联合书单｜刺秦：重新认识秦王朝"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31696917"><h3 class="index_title__aGAqD">9月人文社科联合书单｜刺秦：重新认识秦王朝</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>4小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31696917"><img src="https://imgpai.thepaper.cn/newpai/image/1758979341656_p3c4r3_1758979341822.png?x-oss-process=image/resize,w_332" alt="9月人文社科联合书单｜刺秦：重新认识秦王朝"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31696917"><h3 class="index_title__aGAqD">9月人文社科联合书单｜刺秦：重新认识秦王朝</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>16小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9月语言学联合书单｜中国古代体育语词研究 (澎湃思想 翻书党)]]></title>
@@ -1615,7 +1612,7 @@
         <id>https://m.thepaper.cn/newsDetail_forward_31487266</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_31487266"/>
         <updated>2025-09-27T17:32:26.760Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31487266"><img src="https://imgpai.thepaper.cn/newpai/image/1758893305310_bFsa6i_1758893305536.png?x-oss-process=image/resize,w_332" alt="东瀛书事｜《漱石全集》的编辑与销售——“纪念世界文豪之一大金字塔”"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31487266"><h3 class="index_title__aGAqD">东瀛书事｜《漱石全集》的编辑与销售——“纪念世界文豪之一大金字塔”</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>1天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31487266"><img src="https://imgpai.thepaper.cn/newpai/image/1758893305310_bFsa6i_1758893305536.png?x-oss-process=image/resize,w_332" alt="东瀛书事｜《漱石全集》的编辑与销售——“纪念世界文豪之一大金字塔”"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31487266"><h3 class="index_title__aGAqD">东瀛书事｜《漱石全集》的编辑与销售——“纪念世界文豪之一大金字塔”</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>2天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一周文化讲座｜城市公共生活的命运与变迁 (澎湃思想 翻书党)]]></title>
@@ -1636,7 +1633,7 @@
         <id>https://m.thepaper.cn/newsDetail_forward_31666235</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_31666235"/>
         <updated>2025-09-25T17:36:26.415Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31666235"><img src="https://imgpai.thepaper.cn/newpai/image/1758629298668_25JADz_1758629299038.png?x-oss-process=image/resize,w_332" alt="书单｜人在工位，心已飞往旷野"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31666235"><h3 class="index_title__aGAqD">书单｜人在工位，心已飞往旷野</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>3天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31666235"><img src="https://imgpai.thepaper.cn/newpai/image/1758629298668_25JADz_1758629299038.png?x-oss-process=image/resize,w_332" alt="书单｜人在工位，心已飞往旷野"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31666235"><h3 class="index_title__aGAqD">书单｜人在工位，心已飞往旷野</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>4天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[多重人格是真的吗？ (澎湃思想 翻书党)]]></title>
@@ -1646,13 +1643,6 @@
         <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31674511"><img src="https://imgpai.thepaper.cn/newpai/image/1758708377428_MSSbhP_1758708377638.png?x-oss-process=image/resize,w_332" alt="多重人格是真的吗？"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31674511"><h3 class="index_title__aGAqD">多重人格是真的吗？</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>4天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[世界的逻辑：不确定性为我们提供了新的思维方式 (澎湃思想 翻书党)]]></title>
-        <id>https://m.thepaper.cn/newsDetail_forward_31653219</id>
-        <link href="https://m.thepaper.cn/newsDetail_forward_31653219"/>
-        <updated>2025-09-25T05:38:43.271Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31653219"><img src="https://imgpai.thepaper.cn/newpai/image/1758533690835_YCGEPG_1758533691093.png?x-oss-process=image/resize,w_332" alt="世界的逻辑：不确定性为我们提供了新的思维方式"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31653219"><h3 class="index_title__aGAqD">世界的逻辑：不确定性为我们提供了新的思维方式</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_25574">翻书党</a></div></div><div class="adm-space-item"><span>4天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[上海书评周刊 (澎湃思想 上海书评)]]></title>
         <id>https://html.thepaper.cn/collection/shanghaishuping250928</id>
         <link href="https://html.thepaper.cn/collection/shanghaishuping250928"/>
@@ -1660,11 +1650,18 @@
         <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="https://html.thepaper.cn/collection/shanghaishuping250928"><img src="https://imgpai.thepaper.cn/newpai/image/1758888272144_GS6bAG_1758888272380.png?x-oss-process=image/resize,w_332" alt="上海书评周刊"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="https://html.thepaper.cn/collection/shanghaishuping250928"><h3 class="index_title__aGAqD">上海书评周刊</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>1天前</span></div><div class="adm-space-item"><span> <!-- -->125<!-- -->评<!-- --></span></div></div><span class="index_item_label__RwoaG">推荐</span></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[近读｜哲学家约翰·塞尔（1932-2025）：机器会思考吗？ (澎湃思想 上海书评)]]></title>
+        <id>https://m.thepaper.cn/newsDetail_forward_31707098</id>
+        <link href="https://m.thepaper.cn/newsDetail_forward_31707098"/>
+        <updated>2025-09-29T17:34:43.878Z</updated>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31707098"><img src="https://imgpai.thepaper.cn/newpai/image/1759146824697_TADTkN_1759146983377.jpg?x-oss-process=image/resize,w_332" alt="近读｜哲学家约翰·塞尔（1932-2025）：机器会思考吗？"><span class="watermark_duration"><i class="icon_common icon_play"></i><i class="watermark_num">05:36</i></span></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31707098"><h3 class="index_title__aGAqD">近读｜哲学家约翰·塞尔（1932-2025）：机器会思考吗？</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>5小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[潘玮琳评《以竹为生》｜重新认识现代中国工业化中“看不见的劳作” (澎湃思想 上海书评)]]></title>
         <id>https://m.thepaper.cn/newsDetail_forward_31699548</id>
         <link href="https://m.thepaper.cn/newsDetail_forward_31699548"/>
         <updated>2025-09-29T05:40:21.413Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31699548"><img src="https://imgpai.thepaper.cn/newpai/image/1759042007638_x1nYFb_1759042007884.png?x-oss-process=image/resize,w_332" alt="潘玮琳评《以竹为生》｜重新认识现代中国工业化中“看不见的劳作”"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31699548"><h3 class="index_title__aGAqD">潘玮琳评《以竹为生》｜重新认识现代中国工业化中“看不见的劳作”</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>1小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
+        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31699548"><img src="https://imgpai.thepaper.cn/newpai/image/1759042007638_x1nYFb_1759042007884.png?x-oss-process=image/resize,w_332" alt="潘玮琳评《以竹为生》｜重新认识现代中国工业化中“看不见的劳作”"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31699548"><h3 class="index_title__aGAqD">潘玮琳评《以竹为生》｜重新认识现代中国工业化中“看不见的劳作”</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>13小时前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[李开元谈历史时间与荆轲刺秦 (澎湃思想 上海书评)]]></title>
@@ -1714,12 +1711,5 @@
         <link href="https://m.thepaper.cn/newsDetail_forward_31655401"/>
         <updated>2025-09-23T05:38:35.450Z</updated>
         <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31655401"><img src="https://imgpai.thepaper.cn/newpai/image/1758564692856_6K2ZGX_1758564693132.png?x-oss-process=image/resize,w_332" alt="凌旻华评《午餐劳动》｜美国校餐史：预制菜与照护的危机"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31655401"><h3 class="index_title__aGAqD">凌旻华评《午餐劳动》｜美国校餐史：预制菜与照护的危机</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>6天前</span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[秋水读《信仰与利益之网》︱“禅僧外交”中的政治 (澎湃思想 上海书评)]]></title>
-        <id>https://m.thepaper.cn/newsDetail_forward_31645029</id>
-        <link href="https://m.thepaper.cn/newsDetail_forward_31645029"/>
-        <updated>2025-09-22T05:39:10.715Z</updated>
-        <content type="html"><![CDATA[<a class="index_inherit__wl1Pg index_imgBox__ksJ6m imgBox" href="/newsDetail_forward_31645029"><img src="https://imgpai.thepaper.cn/newpai/image/1758446535841_zWwEzH_1758446536063.png?x-oss-process=image/resize,w_332" alt="秋水读《信仰与利益之网》︱“禅僧外交”中的政治"></a><div class="index_contentBox__070hn"><a class="index_inherit__wl1Pg" href="/newsDetail_forward_31645029"><h3 class="index_title__aGAqD">秋水读《信仰与利益之网》︱“禅僧外交”中的政治</h3></a><div class="index_spaceBox__YFy6S"><div class="adm-space adm-space-horizontal" style="--gap-horizontal:0.2rem"><div class="adm-space-item"><div class="index_extra__M2kfN"><a class="index_inherit__wl1Pg" href="/list_26878">上海书评</a></div></div><div class="adm-space-item"><span>2025-09-22</span></div><div class="adm-space-item"><span> <!-- -->12<!-- -->评<!-- --></span></div></div><span class="index_item_label__RwoaG"></span></div></div>]]></content>
     </entry>
 </feed>

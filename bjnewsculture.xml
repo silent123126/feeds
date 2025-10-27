@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.bjnews.com.cn/culture</id>
     <title>新京报文化</title>
-    <updated>2025-10-27T05:41:15.338Z</updated>
+    <updated>2025-10-27T17:40:21.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.bjnews.com.cn/favicon.ico</icon>
     <entry>
@@ -31,16 +31,236 @@
                                                             <span class="source">
                                                                                                                                 书托邦                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">2小时前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1761535122168822" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“凤凰台上凤凰游”：金陵凤凰台是怎样被题写成胜迹的？]]></title>
+        <id>https://www.bjnews.com.cn/detail/1761537739168827.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1761537739168827.html"/>
+        <updated>2025-10-27T05:40:52.838Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1761537739168827.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            “凤凰台上凤凰游”：金陵凤凰台是怎样被题写成胜迹的？</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1761537739168827.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/10/mapj20251027122172743747.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="“凤凰台上凤凰游”：金陵凤凰台是怎样被题写成胜迹的？">
+                                                                                                                                                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1761537739168827.html" target="_blank">
+                                                                    “凤凰台上凤凰游，凤去台空江自流。吴宫花草埋幽径，晋代衣冠成古丘。”李白的《登金陵凤凰台》是现存第一首题写凤凰台的诗篇，而且也正是因...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书托邦                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                            <em class="indexLine"></em>
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                            <span class="zan">1399</span>
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1761537739168827" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[塔可夫斯基：剥离幻觉，让观众直面“存在”本身]]></title>
+        <id>https://www.bjnews.com.cn/detail/1761552637168839.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1761552637168839.html"/>
+        <updated>2025-10-27T17:38:04.065Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1761552637168839.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            塔可夫斯基：剥离幻觉，让观众直面“存在”本身</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1761552637168839.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/10/mapj202510271610362744150.jpg?x-oss-process=image/resize,m_lfit,w_365/quality,q_80" data-bd-imgshare-binded="1" alt="塔可夫斯基：剥离幻觉，让观众直面“存在”本身">
+                                                                                                                                                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1761552637168839.html" target="_blank">
+                                                                    塔可夫斯基不希望观看者把他的影片当作要破解的密码，把每个意象都套上一个明确的意义标签，而是希望观众让自己被影像的洪流浸没，把银幕上...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书评周刊                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1761552637168839" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“文学女巫”安吉拉·卡特：“永远别相信讲故事的人，相信故事”]]></title>
+        <id>https://www.bjnews.com.cn/detail/1761537694168826.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1761537694168826.html"/>
+        <updated>2025-10-27T05:40:52.840Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1761537694168826.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            “文学女巫”安吉拉·卡特：“永远别相信讲故事的人，相信故事”</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1761537694168826.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/10/mapj20251027121332743741.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="“文学女巫”安吉拉·卡特：“永远别相信讲故事的人，相信故事”">
+                                                                                                                                                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1761537694168826.html" target="_blank">
+                                                                    《删除咒骂》是“文学女巫”安吉拉·卡特的书评自选集，创作时间跨越十五年。在书评里，安吉拉·卡特评论了《简·爱》《源氏物语》《哈扎尔辞典...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书托邦                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1761537694168826" title="点赞">
+                                                                    <span class="dianzan-move2"><i></i>+1</span>
+                                                                    <span id="qwlike" style="display: none"></span> 
+                                                                                                                                <!-- 微博分享 -->
+                                                                <span class="sina" id="v4_s">
+                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
+                                                                        <span class="weibo yunafen"></span>
+                                                                    </a>
+                                                                </span>
+                                                                <!-- 微信分享 -->
+                                                                <span class="weixin" tagerturl="">
+                                                                    <div class="weixin-code">
+                                                                        <p class="wx-t">分享到微信朋友圈</p>
+                                                                        <div class="er"></div>
+                                                                        <!-- <span class="closeWx"></span> -->
+                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
+                                                                    </div>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pin_line"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《月背征途》｜每日一书]]></title>
+        <id>https://www.bjnews.com.cn/detail/1761537678168825.html</id>
+        <link href="https://www.bjnews.com.cn/detail/1761537678168825.html"/>
+        <updated>2025-10-27T05:40:52.841Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1761537678168825.html" target="_blank">
+                                                            <div class="pin_tit">
+                                                                
+                                                                                                                            《月背征途》｜每日一书</div>
+                                                        </a>
+                                                        <!-- 无图稿件判断 start-->
+                                                                                                                                                                        <div class="imgBor">
+                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1761537678168825.html" target="_blank">
+                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/10/mapj20251027121172743738.jpeg?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="《月背征途》｜每日一书">
+                                                                                                                                                                                            </a>
+                                                        </div>
+                                                                                                                <!--无图稿件判断 end-->
+                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
+                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1761537678168825.html" target="_blank">
+                                                                    伴随着科技的进步，人类一步步揭开了蒙在月球之上的神秘面纱，也对这一深空探索中转站有了更多认知。在这里，书评君特别选择了一些和月球，...                                                                    <i>[全文]</i>
+                                                                </a>
+                                                            </div>
+                                                                                                                                                                        <div class="bom">
+                                                            <span class="source">
+                                                                                                                                书托邦                                                            </span>
+                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
+                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
+                                                                                                                        <!-- 如果有时间显示时间 -->
+                                                            
+                                                            <!-- 分享 -->
+                                                            <div class="share-to">
+                                                                
+                                                                                                                                <!-- 点赞 -->
+                                                                    <input class="pubu_dianzan" value="1761537678168825" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->
@@ -147,7 +367,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.2万</span>
+                                                                                                                            <span class="see">1.3万</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -259,11 +479,9 @@
                                                             <span class="source">
                                                                                                                                 书托邦                                                            </span>
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
                                                                                                                         <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">47分钟前</span>
-                                                                
+                                                            
                                                             <!-- 分享 -->
                                                             <div class="share-to">
                                                                 
@@ -318,7 +536,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.3万</span>
+                                                                                                                            <span class="see">1.4万</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -546,7 +764,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">5446</span>
+                                                                                                                            <span class="see">5518</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -747,177 +965,6 @@
                                                         <div class="pin_line"></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“凤凰台上凤凰游”：金陵凤凰台是怎样被题写成胜迹的？]]></title>
-        <id>https://www.bjnews.com.cn/detail/1761537739168827.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1761537739168827.html"/>
-        <updated>2025-10-27T05:40:52.838Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1761537739168827.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            “凤凰台上凤凰游”：金陵凤凰台是怎样被题写成胜迹的？</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1761537739168827.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/10/mapj20251027122172743747.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="“凤凰台上凤凰游”：金陵凤凰台是怎样被题写成胜迹的？">
-                                                                                                                                                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1761537739168827.html" target="_blank">
-                                                                    “凤凰台上凤凰游，凤去台空江自流。吴宫花草埋幽径，晋代衣冠成古丘。”李白的《登金陵凤凰台》是现存第一首题写凤凰台的诗篇，而且也正是因...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                书托邦                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">1小时前</span>
-                                                                
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1761537739168827" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“文学女巫”安吉拉·卡特：“永远别相信讲故事的人，相信故事”]]></title>
-        <id>https://www.bjnews.com.cn/detail/1761537694168826.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1761537694168826.html"/>
-        <updated>2025-10-27T05:40:52.840Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1761537694168826.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            “文学女巫”安吉拉·卡特：“永远别相信讲故事的人，相信故事”</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1761537694168826.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/10/mapj20251027121332743741.png?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="“文学女巫”安吉拉·卡特：“永远别相信讲故事的人，相信故事”">
-                                                                                                                                                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1761537694168826.html" target="_blank">
-                                                                    《删除咒骂》是“文学女巫”安吉拉·卡特的书评自选集，创作时间跨越十五年。在书评里，安吉拉·卡特评论了《简·爱》《源氏物语》《哈扎尔辞典...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                书托邦                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">1小时前</span>
-                                                                
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1761537694168826" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《月背征途》｜每日一书]]></title>
-        <id>https://www.bjnews.com.cn/detail/1761537678168825.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1761537678168825.html"/>
-        <updated>2025-10-27T05:40:52.841Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1761537678168825.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            《月背征途》｜每日一书</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1761537678168825.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/10/mapj20251027121172743738.jpeg?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="《月背征途》｜每日一书">
-                                                                                                                                                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1761537678168825.html" target="_blank">
-                                                                    伴随着科技的进步，人类一步步揭开了蒙在月球之上的神秘面纱，也对这一深空探索中转站有了更多认知。在这里，书评君特别选择了一些和月球，...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                书托邦                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                                                                                            <span class="time">1小时前</span>
-                                                                
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1761537678168825" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[视频荐书｜《人生维艰》]]></title>
         <id>https://www.bjnews.com.cn/detail/1761292349129783.html</id>
         <link href="https://www.bjnews.com.cn/detail/1761292349129783.html"/>
@@ -1059,7 +1106,7 @@
                                                             <!-- 如果tag或者数量没有则不显示竖线 -->
                                                                                                                             <em class="indexLine"></em>
                                                                                                                         <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">8773</span>
+                                                                                                                            <span class="see">8818</span>
                                                                                                                         <!-- 如果有时间显示时间 -->
                                                             
                                                             <!-- 分享 -->
@@ -1067,63 +1114,6 @@
                                                                 
                                                                                                                                 <!-- 点赞 -->
                                                                     <input class="pubu_dianzan" value="1761283934129634" title="点赞">
-                                                                    <span class="dianzan-move2"><i></i>+1</span>
-                                                                    <span id="qwlike" style="display: none"></span> 
-                                                                                                                                <!-- 微博分享 -->
-                                                                <span class="sina" id="v4_s">
-                                                                    <a href="http://service.weibo.com/share/share.php?url=&amp;pic=" target="_blank" title="微博分享">
-                                                                        <span class="weibo yunafen"></span>
-                                                                    </a>
-                                                                </span>
-                                                                <!-- 微信分享 -->
-                                                                <span class="weixin" tagerturl="">
-                                                                    <div class="weixin-code">
-                                                                        <p class="wx-t">分享到微信朋友圈</p>
-                                                                        <div class="er"></div>
-                                                                        <!-- <span class="closeWx"></span> -->
-                                                                        <p class="wx-t2">打开微信，点击底部的“发现”，使用“扫<br>一扫”即可将网页分享到我的朋友圈。</p>
-                                                                    </div>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                        <div class="pin_line"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《中国空间站：我们的太空家园》｜每日一书]]></title>
-        <id>https://www.bjnews.com.cn/detail/1761273786168724.html</id>
-        <link href="https://www.bjnews.com.cn/detail/1761273786168724.html"/>
-        <updated>2025-10-24T05:38:45.071Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bjnews.com.cn/detail/1761273786168724.html" target="_blank">
-                                                            <div class="pin_tit">
-                                                                
-                                                                                                                            《中国空间站：我们的太空家园》｜每日一书</div>
-                                                        </a>
-                                                        <!-- 无图稿件判断 start-->
-                                                                                                                                                                        <div class="imgBor">
-                                                                                                                                                                                                                                                <a href="https://www.bjnews.com.cn/detail/1761273786168724.html" target="_blank">
-                                                                <img class="img-responsive fd" src="https://media.bjnews.com.cn/fz/html/AttachPubDev/2025/10/mapj20251024104352740536.jpeg?x-oss-process=image/resize,m_lfit,w_365" data-bd-imgshare-binded="1" alt="《中国空间站：我们的太空家园》｜每日一书">
-                                                                                                                                                                                            </a>
-                                                        </div>
-                                                                                                                <!--无图稿件判断 end-->
-                                                                                                                    <div class="pin_tips" style="margin-bottom: 10px;font-size: 12px;line-height: 1.5;">
-                                                                <a class="noPadd" href="https://www.bjnews.com.cn/detail/1761273786168724.html" target="_blank">
-                                                                    伴随着科技的进步，人类一步步揭开了蒙在月球之上的神秘面纱，也对这一深空探索中转站有了更多认知。在这里，书评君特别选择了一些和月球，...                                                                    <i>[全文]</i>
-                                                                </a>
-                                                            </div>
-                                                                                                                                                                        <div class="bom">
-                                                            <span class="source">
-                                                                                                                                书托邦                                                            </span>
-                                                            <!-- 如果tag或者数量没有则不显示竖线 -->
-                                                                                                                            <em class="indexLine"></em>
-                                                                                                                        <!-- 有什么数显示什么数，只显示一个 -->
-                                                                                                                            <span class="see">1.3万</span>
-                                                                                                                        <!-- 如果有时间显示时间 -->
-                                                            
-                                                            <!-- 分享 -->
-                                                            <div class="share-to">
-                                                                
-                                                                                                                                <!-- 点赞 -->
-                                                                    <input class="pubu_dianzan" value="1761273786168724" title="点赞">
                                                                     <span class="dianzan-move2"><i></i>+1</span>
                                                                     <span id="qwlike" style="display: none"></span> 
                                                                                                                                 <!-- 微博分享 -->

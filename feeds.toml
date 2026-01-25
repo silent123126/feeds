@@ -36,9 +36,3 @@ entrySelector = ".news-header"
 titleSelector = "h3"
 linkSelector = "h3 a"
 
-[bjnewsculture]
-title = "新京报文化"
-url = "http://www.bjnews.com.cn/culture"
-entrySelector = ".pin_demo"
-titleSelector = ".pin_tit"
-linkSelector = "a"

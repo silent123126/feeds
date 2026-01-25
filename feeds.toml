@@ -1,13 +1,44 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[thepaper_1]
+title = "澎湃思想 私家历史"
+url = "https://m.thepaper.cn/list_25457"
+entrySelector = ".wrapper__XScdT"
+titleSelector = "div a h3"
+linkSelector = "div a"
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
+[thepaper_2]
+title = "澎湃思想 翻书党"
+url = "https://m.thepaper.cn/list_25574"
+entrySelector = ".wrapper__XScdT"
+titleSelector = "div a h3"
+linkSelector = "div a"
+
+
+[thepaper_3]
+title = "澎湃思想 上海书评"
+url = "https://m.thepaper.cn/list_26878"
+entrySelector = ".wrapper__XScdT"
+titleSelector = "div a h3"
+linkSelector = "div a"
+
+
+[ifengculture]
+title = "凤凰文化"
+url = "https://culture.ifeng.com/"
+entrySelector = ".news-stream-newsStream-news-item-infor"
 titleSelector = "h2"
-linkSelector = "h2 a"
+linkSelector = "a"
+
+
+[jiemian]
+title = "界面文化"
+url = "https://m.jiemian.com/lists/130.html"
+entrySelector = ".news-header"
+titleSelector = "h3"
+linkSelector = "h3 a"
+
+[bjnewsculture]
+title = "新京报文化"
+url = "http://www.bjnews.com.cn/culture"
+entrySelector = ".pin_demo"
+titleSelector = ".pin_tit"
+linkSelector = "a"
